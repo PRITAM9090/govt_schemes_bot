@@ -1,0 +1,2473 @@
+[
+  {
+    "name": "Samagra Shiksha",
+    "category": "Education",
+    "state": "Centeral government",
+    "description": "Integrated Scheme for School Education aimed at ensuring inclusive and equitable quality education from Class PreKG-12th Standard.",
+    "link": "https://samagra.education.gov.in/"
+  },
+  {
+    "name": "PM-Vidyalaxmi Scheme",
+    "category": "Education",
+    "state": "Centeral government",
+    "description": "This scheme provides financial support to meritorious students pursuing higher education",
+    "link": "https://www.education.gov.in/scholarships-education-loan-4"
+  },
+  {
+    "name": "Rashtriya Ucchatar Shiksha Abhiyan (RUSA)",
+    "category": "Education",
+    "state": "Centeral government",
+    "description": "This scheme focuses on strengthening and improving higher education institutions. ",
+    "link": "https://www.education.gov.in/rusa"
+  },
+  {
+    "name": "Sarva Shiksha Abhiyan (SSA)",
+    "category": "Education",
+    "state": "Centeral government",
+    "description": "flagship program of the Indian government. Its goal is to achieve Universal Elementary Education (UEE) across India.",
+    "link": "https://www.aicte-india.org/reports/overview/Sarva-Shiksha-Abhiyan"
+  },
+  {
+    "name": "Right to Education (RTE) Act",
+    "category": "Education",
+    "state": "Centeral government",
+    "description": "makes education a fundamental right for children aged 6-14 in India.",
+    "link": "https://dsel.education.gov.in/rte"
+  },
+  {
+    "name": "National Programme for Education of Girls at Elementary Level (NPEGEL)",
+    "category": "Education",
+    "state": "Centeral government",
+    "description": "aimed at improving girls' education, particularly in educationally backward blocks.",
+    "link": "https://osepa.odisha.gov.in/?p=submenupagecontent&pg=2"
+  },
+  {
+    "name": "Beti Bachao, Beti Padhao (BBBP)",
+    "category": "Education",
+    "state": "Centeral government",
+    "description": "Save Daughter, Educate Daughter) is a campaign launched by the Government of India.",
+    "link": "https://www.pmindia.gov.in/en/government_tr_rec/beti-bachao-beti-padhao-caring-for-the-girl-child/"
+  },
+  {
+    "name": "National Scheme of Incentives to Girls for Secondary Education",
+    "category": "Education",
+    "state": "Centeral government",
+    "description": "It provides financial incentives to girls who have passed class VIII and enroll in secondary school.",
+    "link": "https://www.education.gov.in/incentives"
+  },
+  {
+    "name": "Rashtriya Madhyamik Shiksha Abhiyan (RMSA)",
+    "category": "Education",
+    "state": "Centeral government",
+    "description": "RMSA aims to enhance access to secondary education and improve its quality.",
+    "link": "https://www.india.gov.in/spotlight/rashtriya-madhyamik-shiksha-abhiyan#tab=tab-1"
+  },
+  {
+    "name": "CBSE Udaan Program",
+    "category": "Education",
+    "state": "Centeral government",
+    "description": "The CBSE Udaan program aims to address the low enrollment of girls in prestigious engineering and technical institutions.",
+    "link": "https://www.india.gov.in/spotlight/udaan-program-give-wings-girl-students"
+  },
+  {
+    "name": "Kasturba Gandhi Balika Vidyalaya (KGBV)",
+    "category": "Education",
+    "state": "Centeral government",
+    "description": "KGBV aims to provide quality education to girls from disadvantaged communities in rural areas.",
+    "link": "https://samagra.education.gov.in/kgbv.html"
+  },
+  {
+    "name": "Sukanya Samriddhi Yojana",
+    "category": "Education",
+    "state": "Centeral government",
+    "description": "The program allows parents to save for their daughters' education and marriage, providing financial security for their future educational needs.",
+    "link": "https://www.nsiindia.gov.in/(S(j5qthf45hsueej55h30iccnh))/InternalPage.aspx?Id_Pk=89"
+  },
+  {
+    "name": "Central Government Health Scheme (CGHS)",
+    "category": "health",
+    "state": "Centeral government",
+    "description": "Provides comprehensive healthcare to Central Government employees, pensioners, and their dependents.",
+    "link": "https://cghs.gov.in/CghsGovIn/faces/ViewPage.xhtml"
+  },
+  {
+    "name": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
+    "category": "health",
+    "state": "Centeral government",
+    "description": "Offers ₹5 lakh per family per year for secondary and tertiary hospitalization to economically weaker sections.",
+    "link": "https://nha.gov.in/PM-JAY"
+  },
+  {
+    "name": "Ayushman Bharat - Health and Wellness Centres (HWCs)",
+    "category": "health",
+    "state": "Centeral government",
+    "description": "Aim to provide comprehensive primary healthcare services including NCDs, maternal, and child health care.",
+    "link": "https://ab-hwc.nhp.gov.in/"
+  },
+  {
+    "name": "Employees' State Insurance Scheme (ESI)",
+    "category": "health",
+    "state": "Centeral government",
+    "description": "Provides medical, disability, maternity, and dependent benefits to insured workers.",
+    "link": "https://www.india.gov.in/spotlight/employees-state-insurance-scheme#tab=tab-1"
+  },
+  {
+    "name": "Janani Suraksha Yojana (JSY)",
+    "category": "health",
+    "state": "Centeral government",
+    "description": "Cash incentive scheme to promote institutional delivery among poor pregnant women.",
+    "link": "https://nhm.gov.in/index1.php?lang=1&level=3&lid=309&sublinkid=841"
+  },
+  {
+    "name": "National Health Mission (NHM)",
+    "category": "health",
+    "state": "Centeral government",
+    "description": "affordable and quality health care services, accountable and responsive to people's needs",
+    "link": "https://nhm.gov.in/"
+  },
+  {
+    "name": "Pradhan Mantri Swasthya Suraksha Yojana (PMSSY)",
+    "category": "health",
+    "state": "Centeral government",
+    "description": "Aims to correct regional imbalances in tertiary healthcare services and augment medical education.",
+    "link": "https://pmssy.mohfw.gov.in/"
+  },
+  {
+    "name": "Free Drugs and Diagnostics Services Initiative",
+    "category": "health",
+    "state": "Centeral government",
+    "description": "Offers free essential medicines, diagnostic services, and surgical packages in public health facilities.",
+    "link": "https://nhm.gov.in/index1.php?lang=1&level=2&sublinkid=1218&lid=192#:~:text=NHM%20Free%20Diagnostics%20Service%20Initiative&text=The%20objective%20of%20the%20Free,incurred%20by%20patients%20on%20diagnostics."
+  },
+  {
+    "name": "Mission Indradhanush",
+    "category": "health",
+    "state": "Centeral government",
+    "description": "Focused on full immunization coverage for children and pregnant women.",
+    "link": "https://missionindradhanush.in/"
+  },
+  {
+    "name": "National Digital Health Mission (NDHM)",
+    "category": "health",
+    "state": "Centeral government",
+    "description": "Seeks to create a digital health ecosystem with Health IDs and online health records.",
+    "link": "https://www.makeinindia.com/national-digital-health-mission"
+  },
+  {
+    "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "category": "finance",
+    "state": "Centeral government",
+    "description": "₹6,000/year direct income support to small and marginal farmers in 3 installments.",
+    "link": "https://pmkisan.gov.in/"
+  },
+  {
+    "name": "Kisan Credit Card (KCC)",
+    "category": "finance",
+    "state": "Centeral government",
+    "description": "Provides short-term credit to farmers at subsidized interest rates for crop cultivation.",
+    "link": "https://www.myscheme.gov.in/schemes/kcc"
+  },
+  {
+    "name": "PM Street Vendor’s AtmaNirbhar Nidhi (PM SVANidhi)",
+    "category": "finance",
+    "state": "Ladakh",
+    "description": "A micro-credit scheme providing working capital loans to street vendors to support their businesses.",
+    "link": "https://ladakh.gov.in/principal-secy-reviews-flagship-schemes-in-ut-ladakh-2/"
+  },
+  {
+    "name": "National Rural Livelihoods Mission (NRLM)",
+    "category": "finance",
+    "state": "Ladakh",
+    "description": "A program aimed at promoting self-employment and organizing the rural poor into self-help groups.",
+    "link": "https://ladakh.gov.in/nrlm-to-aim-for-livelihood-to-enterprise-in-ladakh-secretary-rural-development-dept/"
+  },
+  {
+    "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "category": "agriculture",
+    "state": "Ladakh",
+    "description": "Provides income support to all landholding farmer families to supplement their financial needs.",
+    "link": "https://ladakh.gov.in/schemes-programmes/"
+  },
+  {
+    "name": "Agriculture Department Initiatives",
+    "category": "agriculture",
+    "state": "Ladakh",
+    "description": "Programs focusing on seed distribution, agri-machinery supply, and promotion of off-season vegetable cultivation.",
+    "link": "https://www.india.gov.in/information-agriculture-department-ladakh"
+  },
+  {
+    "name": "Aspirational Block Programme (ABP)",
+    "category": "education",
+    "state": "Ladakh",
+    "description": "Aims to improve education outcomes in underdeveloped blocks through targeted interventions.",
+    "link": "https://ladakh.gov.in/dc-leh-chairs-meeting-to-discuss-css-under-aspirational-block-programme-and-vibrant-village-programme/"
+  },
+  {
+    "name": "Health and Wellness Centres",
+    "category": "health",
+    "state": "Ladakh",
+    "description": "Establishment of centers to provide comprehensive primary healthcare services.",
+    "link": "https://ladakh.gov.in/principal-secy-reviews-flagship-schemes-in-ut-ladakh-2/"
+  },
+  {
+    "name": "Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
+    "category": "health",
+    "state": "Ladakh",
+    "description": "A health insurance scheme providing coverage of up to ₹5 lakh per family per year for secondary and tertiary care hospitalization.",
+    "link": "https://ladakh.gov.in/principal-secy-reviews-flagship-schemes-in-ut-ladakh-2/"
+  },
+  {
+    "name": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+    "category": "employment",
+    "state": "Ladakh",
+    "description": "Provides at least 100 days of wage employment in a financial year to every rural household whose adult members volunteer to do unskilled manual work.",
+    "link": "https://ladakh.gov.in/schemes-programmes/"
+  },
+  {
+    "name": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+    "category": "employment",
+    "state": "Ladakh",
+    "description": "A skill development initiative aiming to train youth in industry-relevant skills to enhance employability.",
+    "link": "https://ladakh.gov.in/schemes-programmes/"
+  },
+  {
+    "name": "Pradhan Mantri Awas Yojana – Gramin (PMAY-G)",
+    "category": "housing",
+    "state": "Ladakh",
+    "description": "Aims to provide pucca houses with basic amenities to all homeless households and those living in kutcha and dilapidated houses in rural areas.",
+    "link": "https://ladakh.gov.in/schemes-programmes/"
+  },
+  {
+    "name": "Pradhan Mantri Awas Yojana – Urban (PMAY-U)",
+    "category": "housing",
+    "state": "Ladakh",
+    "description": "Focuses on providing affordable housing to the urban poor through various initiatives.",
+    "link": "https://ladakh.gov.in/schemes-programmes/"
+  },
+  {
+    "name": "Jammu and Kashmir Rural Employment Generation Programme (JKREGP)",
+    "category": "finance",
+    "state": "Jammu and Kashmir",
+    "description": "A scheme aimed at providing financial assistance to entrepreneurs for setting up micro-enterprises in rural areas.",
+    "link": "https://www.jkedi.org/JKREGP.html"
+  },
+  {
+    "name": "Seed Capital Fund Scheme",
+    "category": "finance",
+    "state": "Jammu and Kashmir",
+    "description": "Provides seed capital to aspiring entrepreneurs to start their ventures.",
+    "link": "https://www.jkedi.org/SCFS.html"
+  },
+  {
+    "name": "Holistic Agriculture Development Programme (HADP)",
+    "category": "agriculture",
+    "state": "Jammu and Kashmir",
+    "description": "A comprehensive program covering various aspects of agriculture, including horticulture, crop production, and livestock husbandry.",
+    "link": "https://services.india.gov.in/service/detail/holistic-agriculture-development-program-hadp-jammu-and-kashmir"
+  },
+  {
+    "name": "National Food Security Mission (NFSM)",
+    "category": "agriculture",
+    "state": "Jammu and Kashmir",
+    "description": "Aims to increase production of rice, wheat, pulses, coarse cereals, and commercial crops through area expansion and productivity enhancement.",
+    "link": "https://nfsm.gov.in/"
+  },
+  {
+    "name": "Sarva Shiksha Abhiyan (SSA)",
+    "category": "education",
+    "state": "Jammu and Kashmir",
+    "description": "A flagship program aimed at the universalization of elementary education.",
+    "link": "https://sarkariyojana.com/jammu-kashmir-govt-new-schemes-list/"
+  },
+  {
+    "name": "Mid-Day Meal Scheme",
+    "category": "education",
+    "state": "Jammu and Kashmir",
+    "description": "Provides free lunches to students in primary and upper primary classes in government and government-aided schools.",
+    "link": "https://sarkariyojana.com/jammu-kashmir-govt-new-schemes-list/"
+  },
+  {
+    "name": "Janani Shishu Suraksha Karyakram (JSSK)",
+    "category": "health",
+    "state": "Jammu and Kashmir",
+    "description": "Ensures free and cashless services to pregnant women including normal deliveries and caesarean operations.",
+    "link": "https://sarkariyojana.com/jammu-kashmir-govt-new-schemes-list/"
+  },
+  {
+    "name": "National Ayush Mission",
+    "category": "health",
+    "state": "Jammu and Kashmir",
+    "description": "Promotes AYUSH medical systems through cost-effective services, strengthening of educational systems, and quality control of drugs.",
+    "link": "https://sarkariyojana.com/jammu-kashmir-govt-new-schemes-list/"
+  },
+  {
+    "name": "Himayat Scheme",
+    "category": "employment",
+    "state": "Jammu and Kashmir",
+    "description": "A skill development and placement program for unemployed youth in Jammu and Kashmir.",
+    "link": "https://www.jakemp.nic.in/Compendium.pdf"
+  },
+  {
+    "name": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+    "category": "employment",
+    "state": "Jammu and Kashmir",
+    "description": "A skill certification scheme to enable a large number of Indian youth to take up industry-relevant skill training.",
+    "link": "https://sarkariyojana.com/jammu-kashmir-govt-new-schemes-list/"
+  },
+  {
+    "name": "Pradhan Mantri Awas Yojana – Gramin (PMAY-G)",
+    "category": "housing",
+    "state": "Jammu and Kashmir",
+    "description": "Aims to provide a pucca house with basic amenities to all homeless households and those living in kutcha and dilapidated houses in rural areas.",
+    "link": "https://sarkariyojana.com/jammu-kashmir-govt-new-schemes-list/"
+  },
+  {
+    "name": "Affordable Housing, Slum Redevelopment and Rehabilitation and Township Policy 2020",
+    "category": "housing",
+    "state": "Jammu and Kashmir",
+    "description": "Policy aimed at promoting affordable housing and slum redevelopment through various incentives and regulatory frameworks.",
+    "link": "https://singlewindow.jk.gov.in/assets/pdfs/J-and-K-Policies-Sector-and-Incentives.pdf"
+  },
+  {
+    "name": "Rajiv Gandhi Self-Employment Start-up Scheme",
+    "category": "finance",
+    "state": "Himachal Pradesh",
+    "description": "Provides financial assistance and subsidies to promote self-employment among youth, including support for purchasing electric taxis.",
+    "link": "https://himachalpr.gov.in/OnePressRelease.aspx?ID=37323&Language=1"
+  },
+  {
+    "name": "Him Unnati Yojana",
+    "category": "agriculture",
+    "state": "Himachal Pradesh",
+    "description": "Aims to develop agriculture and allied sectors through cluster-based approaches and modern technologies.",
+    "link": "https://agriculture.hp.gov.in/en/our-scheme/"
+  },
+  {
+    "name": "National E-Governance Plan on Agriculture (NeGP-A)",
+    "category": "agriculture",
+    "state": "Himachal Pradesh",
+    "description": "Enhances agricultural productivity through the use of information and communication technology.",
+    "link": "https://agriculture.hp.gov.in/en/our-scheme/"
+  },
+  {
+    "name": "Sarva Shiksha Abhiyan (SSA)",
+    "category": "education",
+    "state": "Himachal Pradesh",
+    "description": "Aims to achieve universalization of elementary education by providing free and compulsory education to children aged 6 to 14.",
+    "link": "https://en.wikipedia.org/wiki/Himachal_Pradesh"
+  },
+  {
+    "name": "Rashtriya Madhyamik Shiksha Abhiyan (RMSA)",
+    "category": "education",
+    "state": "Himachal Pradesh",
+    "description": "Focuses on enhancing access to secondary education and improving its quality.",
+    "link": "https://en.wikipedia.org/wiki/Himachal_Pradesh"
+  },
+  {
+    "name": "Janani Shishu Suraksha Karyakram (JSSK)",
+    "category": "health",
+    "state": "Himachal Pradesh",
+    "description": "Provides free and cashless services to pregnant women and sick newborns in public health institutions.",
+    "link": "https://sarkariyojana.com/himachal-pradesh/"
+  },
+  {
+    "name": "National Ayush Mission",
+    "category": "health",
+    "state": "Himachal Pradesh",
+    "description": "Promotes AYUSH medical systems through cost-effective services and strengthening of educational systems.",
+    "link": "https://sarkariyojana.com/himachal-pradesh/"
+  },
+  {
+    "name": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+    "category": "employment",
+    "state": "Himachal Pradesh",
+    "description": "Provides at least 100 days of wage employment in a financial year to every rural household whose adult members volunteer to do unskilled manual work.",
+    "link": "https://himachal.nic.in/index2.php?dpt_id=1&lang=1&level=1&lid=23176"
+  },
+  {
+    "name": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY)",
+    "category": "employment",
+    "state": "Himachal Pradesh",
+    "description": "A skill certification scheme to enable a large number of Indian youth to take up industry-relevant skill training.",
+    "link": "https://sarkariyojana.com/himachal-pradesh/"
+  },
+  {
+    "name": "Pradhan Mantri Awas Yojana – Gramin (PMAY-G)",
+    "category": "housing",
+    "state": "Himachal Pradesh",
+    "description": "Aims to provide a pucca house with basic amenities to all homeless households and those living in kutcha and dilapidated houses in rural areas.",
+    "link": "https://sarkariyojana.com/himachal-pradesh/"
+  },
+  {
+    "name": "Affordable Housing, Slum Redevelopment and Rehabilitation and Township Policy 2020",
+    "category": "housing",
+    "state": "Himachal Pradesh",
+    "description": "Policy aimed at promoting affordable housing and slum redevelopment through various incentives and regulatory frameworks.",
+    "link": "https://singlewindow.jk.gov.in/assets/pdfs/J-and-K-Policies-Sector-and-Incentives.pdf"
+  },
+  {
+    "name": "Punjab Rozgar Scheme",
+    "category": "finance",
+    "state": "Punjab",
+    "description": "Provides subsidized loans to youth and small businesses to promote entrepreneurship and reduce unemployment.",
+    "link": "https://governmentschemes.pk/punjab/"
+  },
+  {
+    "name": "Asaan Karobar Program",
+    "category": "finance",
+    "state": "Punjab",
+    "description": "Offers interest-free loans to small business owners and entrepreneurs to support economic growth.",
+    "link": "https://cmpunjabschemes.pk/"
+  },
+  {
+    "name": "CM Punjab Green Tractor Scheme",
+    "category": "agriculture",
+    "state": "Punjab",
+    "description": "Provides subsidies to farmers for purchasing green tractors to promote sustainable agriculture.",
+    "link": "https://governmentschemes.pk/punjab/"
+  },
+  {
+    "name": "Punjab Crop Loan Waiver Scheme",
+    "category": "agriculture",
+    "state": "Punjab",
+    "description": "Waives off crop loans for small and marginal farmers to alleviate their financial burden.",
+    "link": "https://sarkariyojana.com/punjab-schemes-list/"
+  },
+  {
+    "name": "CM Punjab Education Card",
+    "category": "education",
+    "state": "Punjab",
+    "description": "Provides financial assistance and scholarships to students for pursuing higher education.",
+    "link": "https://cmpunjabschemes.pk/"
+  },
+  {
+    "name": "CM Punjab Laptop Scheme",
+    "category": "education",
+    "state": "Punjab",
+    "description": "Distributes laptops to meritorious students to promote digital learning and education.",
+    "link": "https://cmpunjabschemes.pk/"
+  },
+  {
+    "name": "Sarbat Sehat Bima Yojana",
+    "category": "health",
+    "state": "Punjab",
+    "description": "Provides health insurance coverage of up to ₹5 lakh per family per year for secondary and tertiary care hospitalization.",
+    "link": "https://sarkariyojana.com/punjab/"
+  },
+  {
+    "name": "Janani Shishu Suraksha Karyakram (JSSK)",
+    "category": "health",
+    "state": "Punjab",
+    "description": "Ensures free and cashless services to pregnant women including normal deliveries and caesarean operations.",
+    "link": "https://sarkariyojana.com/punjab/"
+  },
+  {
+    "name": "Ghar Ghar Rozgar Yojana",
+    "category": "employment",
+    "state": "Punjab",
+    "description": "Aims to provide employment opportunities to the youth by connecting them with job providers.",
+    "link": "https://tsaspirants.com/punjab-government-schemes/"
+  },
+  {
+    "name": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+    "category": "employment",
+    "state": "Punjab",
+    "description": "Provides at least 100 days of wage employment in a financial year to every rural household whose adult members volunteer to do unskilled manual work.",
+    "link": "https://pbemployment.punjab.gov.in/?q=schemes"
+  },
+  {
+    "name": "Apni Chhat Apna Ghar Program",
+    "category": "housing",
+    "state": "Punjab",
+    "description": "Focuses on providing affordable housing to low-income families with options for interest-free loans or installment plans.",
+    "link": "https://punjabscheme.pk/"
+  },
+  {
+    "name": "Punjab Shehri Awas Yojana",
+    "category": "housing",
+    "state": "Punjab",
+    "description": "Aims to provide housing to urban poor families, especially those belonging to Scheduled Castes and Backward Classes.",
+    "link": "https://sarkariyojana.com/punjab-schemes-list/"
+  },
+  {
+    "name": "Mahila Samridhi Yojana",
+    "category": "finance",
+    "state": "Haryana",
+    "description": "Provides financial assistance to women from Scheduled Castes for self-employment ventures.",
+    "link": "https://www.yogiyojana.co.in/2020/01/list-haryana-govt-schemes-services.html"
+  },
+  {
+    "name": "Micro Credit Finance Scheme",
+    "category": "finance",
+    "state": "Haryana",
+    "description": "Offers microloans to individuals from Scheduled Castes for income-generating activities.",
+    "link": "https://www.yogiyojana.co.in/2020/01/list-haryana-govt-schemes-services.html"
+  },
+  {
+    "name": "Bhavantar Bharpayee Yojana",
+    "category": "agriculture",
+    "state": "Haryana",
+    "description": "Compensates farmers for the difference between the market price and the minimum support price of their produce.",
+    "link": "https://sarkarilist.com/haryana-government-schemes-full-list/"
+  },
+  {
+    "name": "Pashudhan Bima Yojana",
+    "category": "agriculture",
+    "state": "Haryana",
+    "description": "Provides insurance coverage for livestock to protect farmers against financial loss.",
+    "link": "https://sarkariyojana.com/wp-content/uploads/2020/02/haryana-schemes-list.pdf"
+  },
+  {
+    "name": "Post Matric Scholarship Scheme",
+    "category": "education",
+    "state": "Haryana",
+    "description": "Offers scholarships to students from Scheduled Castes pursuing post-matriculation education.",
+    "link": "https://haryana.gov.in/hi/%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%82/"
+  },
+  {
+    "name": "Pre Matric Scholarship Scheme",
+    "category": "education",
+    "state": "Haryana",
+    "description": "Provides financial assistance to students from Scheduled Castes studying in classes IX and X.",
+    "link": "https://haryana.gov.in/hi/%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE%E0%A4%8F%E0%A4%82/"
+  },
+  {
+    "name": "Ayushman Bharat - Chirayu Haryana",
+    "category": "health",
+    "state": "Haryana",
+    "description": "Offers health insurance coverage up to ₹5 lakh per family per year for secondary and tertiary care hospitalization.",
+    "link": "https://sarkariyojana.com/haryana/"
+  },
+  {
+    "name": "Janani Shishu Suraksha Karyakram (JSSK)",
+    "category": "health",
+    "state": "Haryana",
+    "description": "Ensures free and cashless services to pregnant women and sick newborns in public health institutions.",
+    "link": "https://sarkariyojana.com/haryana/"
+  },
+  {
+    "name": "Saksham Yuva Scheme",
+    "category": "employment",
+    "state": "Haryana",
+    "description": "Provides unemployment allowance and honorarium for eligible educated youth.",
+    "link": "https://sarkariyojana.com/wp-content/uploads/2020/02/haryana-schemes-list.pdf"
+  },
+  {
+    "name": "Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS)",
+    "category": "employment",
+    "state": "Haryana",
+    "description": "Guarantees 100 days of wage employment in a financial year to rural households.",
+    "link": "https://haryanarural.gov.in/schemes-programmes/"
+  },
+  {
+    "name": "Deen Dayal Jan Awas Yojana",
+    "category": "housing",
+    "state": "Haryana",
+    "description": "Aims to develop high-density affordable housing colonies in low and medium potential towns.",
+    "link": "https://sarkariyojana.com/wp-content/uploads/2020/02/haryana-schemes-list.pdf"
+  },
+  {
+    "name": "Pradhan Mantri Awas Yojana – Gramin (PMAY-G)",
+    "category": "housing",
+    "state": "Haryana",
+    "description": "Provides financial assistance to rural poor for constructing pucca houses.",
+    "link": "https://sarkarilist.com/haryana-government-schemes-full-list/"
+  },
+  {
+    "name": "Delhi Mahila Samman Yojana",
+    "category": "finance",
+    "state": "Delhi",
+    "description": "Provides financial assistance of ₹2,100 per month to eligible women to promote financial independence.",
+    "link": "https://sarkariyojana.com/delhi/"
+  },
+  {
+    "name": "Delhi Electric Vehicle Subsidy Scheme",
+    "category": "finance",
+    "state": "Delhi",
+    "description": "Offers financial incentives to promote the adoption of electric vehicles in the city.",
+    "link": "https://sarkariyojana.com/delhi/"
+  },
+  {
+    "name": "Swaran Jayanti Shahari Rozgar Yojana (SJSRY)",
+    "category": "employment",
+    "state": "Delhi",
+    "description": "Provides loans to unemployed urban poor for setting up gainful self-employment ventures.",
+    "link": "https://dmshahdara.delhi.gov.in/schemes/"
+  },
+  {
+    "name": "Prime Minister Rozgar Yojana (PMRY)",
+    "category": "employment",
+    "state": "Delhi",
+    "description": "Assists educated unemployed individuals in setting up self-employment ventures through industry, service, and business routes.",
+    "link": "https://dmshahdara.delhi.gov.in/schemes/"
+  },
+  {
+    "name": "Mission Buniyaad",
+    "category": "education",
+    "state": "Delhi",
+    "description": "Aims to improve foundational learning skills among students in government and municipal schools.",
+    "link": "https://sarkariyojana.com/delhi/"
+  },
+  {
+    "name": "Free Coaching Scheme for SC/ST Students",
+    "category": "education",
+    "state": "Delhi",
+    "description": "Provides free coaching to SC/ST students for civil services and other competitive examinations.",
+    "link": "https://sarkariyojana.com/delhi/"
+  },
+  {
+    "name": "Aam Aadmi Health Card Scheme",
+    "category": "health",
+    "state": "Delhi",
+    "description": "Introduces electronic health records for all residents to streamline healthcare services.",
+    "link": "https://sarkariyojana.com/delhi/"
+  },
+  {
+    "name": "Janani Shishu Suraksha Karyakram (JSSK)",
+    "category": "health",
+    "state": "Delhi",
+    "description": "Ensures free and cashless services to pregnant women and sick newborns in public health institutions.",
+    "link": "https://delhiplanning.delhi.gov.in/sites/default/files/list_of_schemes_entitlement_wise.pdf"
+  },
+  {
+    "name": "Pradhan Mantri Awas Yojana – Urban (PMAY-U)",
+    "category": "housing",
+    "state": "Delhi",
+    "description": "Provides affordable housing to urban poor under the 'Housing for All' mission.",
+    "link": "https://dmnewdelhi.delhi.gov.in/schemes/"
+  },
+  {
+    "name": "DDA Housing Scheme",
+    "category": "housing",
+    "state": "Delhi",
+    "description": "Offers residential flats to various income groups through the Delhi Development Authority.",
+    "link": "https://sarkariyojana.com/delhi-schemes-list/"
+  },
+  {
+    "name": "Mukhya Mantri Swarozgar Yojana",
+    "category": "finance",
+    "state": "Uttarakhand",
+    "description": "Provides financial assistance to unemployed youth for setting up self-employment ventures.",
+    "link": "https://sarkariyojana.com/uttarakhand-schemes-list/"
+  },
+  {
+    "name": "Uttarakhand Bona Pension Yojana",
+    "category": "finance",
+    "state": "Uttarakhand",
+    "description": "Offers ₹1,200 per month to individuals with dwarfism.",
+    "link": "https://sarkariyojana.com/uttarakhand-schemes-list/"
+  },
+  {
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "category": "agriculture",
+    "state": "Uttarakhand",
+    "description": "Provides crop insurance coverage and financial support to farmers in case of crop failure.",
+    "link": "https://agriculture.uk.gov.in/schemes-programmes/"
+  },
+  {
+    "name": "Kisan Credit Card (KCC)",
+    "category": "agriculture",
+    "state": "Uttarakhand",
+    "description": "Offers short-term credit to farmers for crop production and other agricultural needs.",
+    "link": "https://agriculture.uk.gov.in/schemes-programmes/"
+  },
+  {
+    "name": "Chief Minister Higher Education Scholarship Scheme",
+    "category": "education",
+    "state": "Uttarakhand",
+    "description": "Provides scholarships to meritorious students for higher education.",
+    "link": "https://sarkariyojana.com/uttarakhand-schemes-list/"
+  },
+  {
+    "name": "Free Textbook Scheme",
+    "category": "education",
+    "state": "Uttarakhand",
+    "description": "Offers free textbooks to students from general, OBC, SC, and ST categories.",
+    "link": "https://sarkariyojana.com/uttarakhand-schemes-list/"
+  },
+  {
+    "name": "Atal Ayushman Uttarakhand Yojana (AAUY)",
+    "category": "health",
+    "state": "Uttarakhand",
+    "description": "Provides health insurance coverage to residents of Uttarakhand.",
+    "link": "https://sarkariyojana.com/uttarakhand-schemes-list/"
+  },
+  {
+    "name": "Janani Shishu Suraksha Karyakram (JSSK)",
+    "category": "health",
+    "state": "Uttarakhand",
+    "description": "Ensures free and cashless services to pregnant women and sick newborns in public health institutions.",
+    "link": "https://health.uk.gov.in/"
+  },
+  {
+    "name": "Mukhya Mantri Rojgar Yojana",
+    "category": "employment",
+    "state": "Uttarakhand",
+    "description": "Provides financial assistance to unemployed youth for setting up self-employment ventures.",
+    "link": "https://sarkariyojana.com/uttarakhand-schemes-list/"
+  },
+  {
+    "name": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+    "category": "employment",
+    "state": "Uttarakhand",
+    "description": "Guarantees 100 days of wage employment in a financial year to rural households.",
+    "link": "https://rural.uk.gov.in/"
+  },
+  {
+    "name": "Deendayal Uttarakhand Rural Housing Scheme",
+    "category": "housing",
+    "state": "Uttarakhand",
+    "description": "Provides permanent accommodation to families residing in unoccupied housing living below the poverty line.",
+    "link": "https://ukrdd.uk.gov.in/"
+  },
+  {
+    "name": "State Credit Cum Subsidy Gramin Awas Yojana (CCS)",
+    "category": "housing",
+    "state": "Uttarakhand",
+    "description": "Offers a combination of credit and subsidy to rural households for constructing houses.",
+    "link": "https://ukrdd.uk.gov.in/?page_id=4107"
+  },
+  {
+    "name": "Mukhyamantri Kanya Sumangala Yojana",
+    "category": "finance",
+    "state": "Uttar Pradesh",
+    "description": "Provides financial assistance of up to ₹25,000 in six stages for the education and welfare of girl children.",
+    "link": "https://sarkariyojana.com/wp-content/uploads/list-pdf/uttar-pradesh-schemes-list.pdf"
+  },
+  {
+    "name": "Deendayal Upadhyaya Self-Employment Scheme",
+    "category": "finance",
+    "state": "Uttar Pradesh",
+    "description": "Offers financial support for agricultural and non-agricultural projects costing up to ₹15 lakh for Scheduled Castes below the poverty line.",
+    "link": "https://pinwas.com/welfare-of-people/"
+  },
+  {
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "category": "agriculture",
+    "state": "Uttar Pradesh",
+    "description": "Provides crop insurance coverage and financial support to farmers in case of crop failure.",
+    "link": "https://agriculture.up.nic.in/"
+  },
+  {
+    "name": "Kisan Credit Card (KCC)",
+    "category": "agriculture",
+    "state": "Uttar Pradesh",
+    "description": "Offers short-term credit to farmers for crop production and other agricultural needs.",
+    "link": "https://agriculture.up.nic.in/"
+  },
+  {
+    "name": "Swami Vivekananda Youth Empowerment Scheme",
+    "category": "education",
+    "state": "Uttar Pradesh",
+    "description": "Provides financial assistance for higher education to meritorious students from economically weaker sections.",
+    "link": "https://popularschemes.com/allschemes/Uttar%20Pradesh"
+  },
+  {
+    "name": "Chief Minister Abhyuday Scheme",
+    "category": "education",
+    "state": "Uttar Pradesh",
+    "description": "Offers free coaching for competitive exams to students from economically weaker sections.",
+    "link": "https://popularschemes.com/allschemes/Uttar%20Pradesh"
+  },
+  {
+    "name": "Ayushman Bharat – Pradhan Mantri Jan Arogya Yojana (PMJAY)",
+    "category": "health",
+    "state": "Uttar Pradesh",
+    "description": "Provides health insurance coverage up to ₹5 lakh per family per year for secondary and tertiary care hospitalization.",
+    "link": "https://pmjay.gov.in/"
+  },
+  {
+    "name": "Janani Shishu Suraksha Karyakram (JSSK)",
+    "category": "health",
+    "state": "Uttar Pradesh",
+    "description": "Ensures free and cashless services to pregnant women and sick newborns in public health institutions.",
+    "link": "https://health.up.gov.in/"
+  },
+  {
+    "name": "Uttar Pradesh Unemployment Allowance Scheme",
+    "category": "employment",
+    "state": "Uttar Pradesh",
+    "description": "Provides financial assistance to unemployed youth to support them while they seek employment.",
+    "link": "https://popularschemes.com/allschemes/Uttar%20Pradesh"
+  },
+  {
+    "name": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+    "category": "employment",
+    "state": "Uttar Pradesh",
+    "description": "Guarantees 100 days of wage employment in a financial year to rural households.",
+    "link": "https://rural.up.gov.in/"
+  },
+  {
+    "name": "Pradhan Mantri Awas Yojana – Urban (PMAY-U)",
+    "category": "housing",
+    "state": "Uttar Pradesh",
+    "description": "Provides affordable housing to urban poor under the 'Housing for All' mission.",
+    "link": "https://pmaymis.gov.in/"
+  },
+  {
+    "name": "Mukhyamantri Gramin Awas Yojana",
+    "category": "housing",
+    "state": "Uttar Pradesh",
+    "description": "Offers free houses to homeless poor in rural areas, including those left out under PMAY.",
+    "link": "https://sarkariyojana.com/wp-content/uploads/list-pdf/uttar-pradesh-schemes-list.pdf"
+  },
+  {
+    "name": "Mukhya Mantri Arthik Kalyan Yojana",
+    "category": "finance",
+    "state": "Rajasthan",
+    "description": "Provides financial assistance to economically weaker sections for self-employment and income generation.",
+    "link": "https://jansoochna.rajasthan.gov.in/Scheme"
+  },
+  {
+    "name": "Mukhya Mantri Kisan Mitra Yojana",
+    "category": "finance",
+    "state": "Rajasthan",
+    "description": "Offers financial support to farmers for purchasing agricultural inputs and equipment.",
+    "link": "https://jansoochna.rajasthan.gov.in/Scheme"
+  },
+  {
+    "name": "Zero Budget Natural Farming",
+    "category": "agriculture",
+    "state": "Rajasthan",
+    "description": "Promotes sustainable farming practices without the use of chemical fertilizers and pesticides.",
+    "link": "https://www.myscheme.gov.in/search/state/Rajasthan"
+  },
+  {
+    "name": "Krishak Sathi Yojana",
+    "category": "agriculture",
+    "state": "Rajasthan",
+    "description": "Provides financial assistance to farmers in case of death or disability during agricultural activities.",
+    "link": "https://www.myscheme.gov.in/search/state/Rajasthan"
+  },
+  {
+    "name": "Mukhyamantri Shiksha Protsahan Yojana",
+    "category": "education",
+    "state": "Rajasthan",
+    "description": "Offers scholarships to meritorious students for higher education.",
+    "link": "https://jansoochna.rajasthan.gov.in/Scheme"
+  },
+  {
+    "name": "Indira Gandhi Free Smartphone Scheme",
+    "category": "education",
+    "state": "Rajasthan",
+    "description": "Provides free smartphones with internet connectivity to women heads of families for educational purposes.",
+    "link": "https://jansoochna.rajasthan.gov.in/Scheme"
+  },
+  {
+    "name": "Mukhyamantri Chiranjeevi Swasthya Bima Yojana",
+    "category": "health",
+    "state": "Rajasthan",
+    "description": "Offers health insurance coverage up to ₹10 lakh per family per year for secondary and tertiary care hospitalization.",
+    "link": "https://jansoochna.rajasthan.gov.in/Scheme"
+  },
+  {
+    "name": "Indira Rasoi Yojana",
+    "category": "health",
+    "state": "Rajasthan",
+    "description": "Provides nutritious meals at subsidized rates to urban poor.",
+    "link": "https://jansoochna.rajasthan.gov.in/Scheme"
+  },
+  {
+    "name": "Indira Gandhi Shehari Rojgar Guarantee Yojana",
+    "category": "employment",
+    "state": "Rajasthan",
+    "description": "Provides at least 100 days of employment per year to urban poor residents.",
+    "link": "https://jansoochna.rajasthan.gov.in/Scheme"
+  },
+  {
+    "name": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+    "category": "employment",
+    "state": "Rajasthan",
+    "description": "Guarantees 100 days of wage employment in a financial year to rural households.",
+    "link": "https://jansoochna.rajasthan.gov.in/Scheme"
+  },
+  {
+    "name": "Pradhan Mantri Awas Yojana – Urban (PMAY-U)",
+    "category": "housing",
+    "state": "Rajasthan",
+    "description": "Provides affordable housing to urban poor under the 'Housing for All' mission.",
+    "link": "https://jansoochna.rajasthan.gov.in/Scheme"
+  },
+  {
+    "name": "Mukhyamantri Gramin Awas Yojana",
+    "category": "housing",
+    "state": "Rajasthan",
+    "description": "Offers free houses to homeless poor in rural areas, including those left out under PMAY.",
+    "link": "https://jansoochna.rajasthan.gov.in/Scheme"
+  },
+  {
+    "name": "Mukhya Mantri Arthik Kalyan Yojana",
+    "category": "finance",
+    "state": "Gujarat",
+    "description": "Provides financial assistance to economically weaker sections for self-employment and income generation.",
+    "link": "https://www.corpseed.com/knowledge-centre/financial-assistance-schemes-of-the-gujarat-government"
+  },
+  {
+    "name": "Mukhya Mantri Kisan Mitra Yojana",
+    "category": "finance",
+    "state": "Gujarat",
+    "description": "Offers financial support to farmers for purchasing agricultural inputs and equipment.",
+    "link": "https://www.corpseed.com/knowledge-centre/financial-assistance-schemes-of-the-gujarat-government"
+  },
+  {
+    "name": "Zero Budget Natural Farming",
+    "category": "agriculture",
+    "state": "Gujarat",
+    "description": "Promotes sustainable farming practices without the use of chemical fertilizers and pesticides.",
+    "link": "https://www.myscheme.gov.in/search/state/Gujarat"
+  },
+  {
+    "name": "Krushi Mahotsav",
+    "category": "agriculture",
+    "state": "Gujarat",
+    "description": "Educates farmers about modern farming techniques, technology, and best practices through workshops and training sessions.",
+    "link": "https://www.jaagrukbharat.com/top-government-scheme-in-gujurat-6489854"
+  },
+  {
+    "name": "Mukhyamantri Shiksha Protsahan Yojana",
+    "category": "education",
+    "state": "Gujarat",
+    "description": "Offers scholarships to meritorious students for higher education.",
+    "link": "https://www.india.gov.in/information-schemes-department-education-gujarat"
+  },
+  {
+    "name": "Indira Gandhi Free Smartphone Scheme",
+    "category": "education",
+    "state": "Gujarat",
+    "description": "Provides free smartphones with internet connectivity to women heads of families for educational purposes.",
+    "link": "https://www.india.gov.in/information-schemes-department-education-gujarat"
+  },
+  {
+    "name": "Mukhyamantri Chiranjeevi Swasthya Bima Yojana",
+    "category": "health",
+    "state": "Gujarat",
+    "description": "Offers health insurance coverage up to ₹10 lakh per family per year for secondary and tertiary care hospitalization.",
+    "link": "https://www.india.gov.in/information-schemes-department-education-gujarat"
+  },
+  {
+    "name": "Indira Rasoi Yojana",
+    "category": "health",
+    "state": "Gujarat",
+    "description": "Provides nutritious meals at subsidized rates to urban poor.",
+    "link": "https://www.india.gov.in/information-schemes-department-education-gujarat"
+  },
+  {
+    "name": "Indira Gandhi Shehari Rojgar Guarantee Yojana",
+    "category": "employment",
+    "state": "Gujarat",
+    "description": "Provides at least 100 days of employment per year to urban poor residents.",
+    "link": "https://www.india.gov.in/information-schemes-department-education-gujarat"
+  },
+  {
+    "name": "Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)",
+    "category": "employment",
+    "state": "Gujarat",
+    "description": "Guarantees 100 days of wage employment in a financial year to rural households.",
+    "link": "https://www.india.gov.in/information-schemes-department-education-gujarat"
+  },
+  {
+    "name": "Pradhan Mantri Awas Yojana – Urban (PMAY-U)",
+    "category": "housing",
+    "state": "Gujarat",
+    "description": "Provides affordable housing to urban poor under the 'Housing for All' mission.",
+    "link": "https://www.india.gov.in/information-schemes-department-education-gujarat"
+  },
+  {
+    "name": "Mukhyamantri Gramin Awas Yojana",
+    "category": "housing",
+    "state": "Gujarat",
+    "description": "Offers free houses to homeless poor in rural areas, including those left out under PMAY.",
+    "link": "https://www.india.gov.in/information-schemes-department-education-gujarat"
+  },
+  {
+    "name": "Mukhyamantri Ladli Behna Yojana",
+    "category": "finance",
+    "state": "Madhya Pradesh",
+    "description": "Provides financial assistance to women for their empowerment and welfare.",
+    "link": "https://sarkariyojana.com/madhya-pradesh-government-schemes/"
+  },
+  {
+    "name": "Mukhyamantri Swarojgar Yojana",
+    "category": "finance",
+    "state": "Madhya Pradesh",
+    "description": "Promotes entrepreneurship by providing financial support without collateral security.",
+    "link": "https://rewa.nic.in/en/schemes/"
+  },
+  {
+    "name": "Mukhyamantri Kisan Samman Nidhi Yojana",
+    "category": "finance",
+    "state": "Madhya Pradesh",
+    "description": "Offers financial support to farmers to enhance their income.",
+    "link": "https://popularschemes.com/as/allschemes/Madhya%20Pradesh"
+  },
+  {
+    "name": "Bhavantar Bhugtan Yojana",
+    "category": "agriculture",
+    "state": "Madhya Pradesh",
+    "description": "Compensates farmers for the price difference when selling produce below the Minimum Support Price (MSP).",
+    "link": "https://matbastard.com/madhya-pradesh-government-initiatives-schemes-and-services/"
+  },
+  {
+    "name": "Mukhyamantri Annapurna Yojana",
+    "category": "agriculture",
+    "state": "Madhya Pradesh",
+    "description": "Provides subsidized food grains to eligible families to ensure food security.",
+    "link": "https://matbastard.com/madhya-pradesh-government-initiatives-schemes-and-services/"
+  },
+  {
+    "name": "Mukhyamantri Ladli Laxmi Yojana",
+    "category": "education",
+    "state": "Madhya Pradesh",
+    "description": "Aims to improve the education and health of girls, and eliminate child marriage.",
+    "link": "https://testbook.com/mppsc-preparation/welfare-schemes-of-madhya-pradesh"
+  },
+  {
+    "name": "Mukhyamantri Gaon Ki Beti Yojana",
+    "category": "education",
+    "state": "Madhya Pradesh",
+    "description": "Provides scholarships to meritorious girls from rural areas for higher education.",
+    "link": "https://popularschemes.com/as/allschemes/Madhya%20Pradesh"
+  },
+  {
+    "name": "Mukhyamantri Yuva Kaushal Kamai Yojana",
+    "category": "employment",
+    "state": "Madhya Pradesh",
+    "description": "Aims to empower youth by providing various skills for employment.",
+    "link": "https://sarkariyojana.com/madhya-pradesh-government-schemes/"
+  },
+  {
+    "name": "Mukhyamantri Yuva Udyami Yojana",
+    "category": "employment",
+    "state": "Madhya Pradesh",
+    "description": "Supports youth in starting their own businesses by providing financial assistance.",
+    "link": "https://popularschemes.com/as/allschemes/Madhya%20Pradesh"
+  },
+  {
+    "name": "Mukhyamantri Jan Awas Yojana",
+    "category": "housing",
+    "state": "Madhya Pradesh",
+    "description": "Provides affordable housing to the poor under the 'Housing for All' mission.",
+    "link": "https://slbcmadhyapradesh.in/central-govt-programmes.aspx"
+  },
+  {
+    "name": "Housing Assistance Scheme",
+    "category": "housing",
+    "state": "Madhya Pradesh",
+    "description": "Offers housing support to tribal students pursuing higher education outside their hometowns.",
+    "link": "https://dhar.nic.in/en/scheme/housing-assistance-scheme/"
+  },
+  {
+    "name": "Mukhyamantri Urja Khushali Yojana",
+    "category": "finance",
+    "state": "Jharkhand",
+    "description": "Provides free electricity up to 200 units per month to all households in Jharkhand.",
+    "link": "https://www.jharkhand.gov.in/Home/SearchSchemes"
+  },
+  {
+    "name": "Mukhyamantri Maiyya Samman Yojana",
+    "category": "finance",
+    "state": "Jharkhand",
+    "description": "Offers financial assistance of ₹1,000 per month to women aged between 21 and 50 years.",
+    "link": "https://www.jharkhand.gov.in/Home/SearchSchemes"
+  },
+  {
+    "name": "Jharkhand Rajya Fasal Rahat Yojana",
+    "category": "agriculture",
+    "state": "Jharkhand",
+    "description": "Provides compensation to farmers for crop loss due to natural calamities.",
+    "link": "https://www.jharkhand.gov.in/Home/SearchSchemes"
+  },
+  {
+    "name": "Jharkhand Krishi Rin Mafi Yojana",
+    "category": "agriculture",
+    "state": "Jharkhand",
+    "description": "Offers loan waiver to farmers to alleviate their financial burden.",
+    "link": "https://www.jharkhand.gov.in/Home/SearchSchemes"
+  },
+  {
+    "name": "Savitribai Phule Kishori Samridhi Yojana",
+    "category": "education",
+    "state": "Jharkhand",
+    "description": "Provides financial incentives to encourage education among girls.",
+    "link": "https://www.jharkhand.gov.in/Home/SearchSchemes"
+  },
+  {
+    "name": "Mukhyamantri Protsahan Yojana",
+    "category": "education",
+    "state": "Jharkhand",
+    "description": "Offers scholarships and incentives to meritorious students.",
+    "link": "https://www.jharkhand.gov.in/Home/SearchSchemes"
+  },
+  {
+    "name": "Mukhyamantri Swasthya Bima Yojana",
+    "category": "health",
+    "state": "Jharkhand",
+    "description": "Provides health insurance coverage to economically weaker sections.",
+    "link": "https://www.jharkhand.gov.in/Home/SearchSchemes"
+  },
+  {
+    "name": "National Social Assistance Programme (NSAP)",
+    "category": "health",
+    "state": "Jharkhand",
+    "description": "Offers financial assistance to elderly, widows, and persons with disabilities.",
+    "link": "https://latehar.nic.in/schemes/"
+  },
+  {
+    "name": "Jharkhand Mukhyamantri Urja Khushali Yojana",
+    "category": "employment",
+    "state": "Jharkhand",
+    "description": "Provides employment opportunities in the energy sector.",
+    "link": "https://www.jharkhand.gov.in/Home/SearchSchemes"
+  },
+  {
+    "name": "Jharkhand Chief Minister Employment Generation Scheme",
+    "category": "employment",
+    "state": "Jharkhand",
+    "description": "Supports youth in starting their own businesses by providing financial assistance.",
+    "link": "https://www.jharkhand.gov.in/Home/SearchSchemes"
+  },
+  {
+    "name": "Mukhyamantri Jan Awas Yojana",
+    "category": "housing",
+    "state": "Jharkhand",
+    "description": "Provides affordable housing to the poor under the 'Housing for All' mission.",
+    "link": "https://www.jharkhand.gov.in/Home/SearchSchemes"
+  },
+  {
+    "name": "Housing Assistance Scheme",
+    "category": "housing",
+    "state": "Jharkhand",
+    "description": "Offers housing support to tribal students pursuing higher education outside their hometowns.",
+    "link": "https://dhar.nic.in/en/scheme/housing-assistance-scheme/"
+  },
+  {
+    "name": "Krishak Bandhu (Natun)",
+    "category": "finance",
+    "state": "West Bengal",
+    "description": "Provides financial assistance to farmers for agricultural purposes and offers social security to farm families in the event of untimely death of the farmers.",
+    "link": "https://cm.wb.gov.in/ncmo/Public/Scheme_Master.aspx"
+  },
+  {
+    "name": "Karma Sathi Prakalpa",
+    "category": "finance",
+    "state": "West Bengal",
+    "description": "Offers financial assistance to unemployed youth for self-employment ventures.",
+    "link": "https://wb.gov.in/government-schemes-details-karmasathi.aspx"
+  },
+  {
+    "name": "Krishak Bandhu Scheme",
+    "category": "agriculture",
+    "state": "West Bengal",
+    "description": "Provides annual financial assistance to farmers and insurance coverage in case of untimely death.",
+    "link": "https://wb.gov.in/government-schemes-details-krishakbandhu.aspx"
+  },
+  {
+    "name": "Bangla Shasya Bima Scheme",
+    "category": "agriculture",
+    "state": "West Bengal",
+    "description": "Offers crop insurance to farmers to protect against crop loss due to natural calamities.",
+    "link": "https://wb.gov.in/government-schemes-details-banglashasyabima.aspx"
+  },
+  {
+    "name": "Sikshashree Scheme",
+    "category": "education",
+    "state": "West Bengal",
+    "description": "Provides financial assistance to students from economically weaker sections for their education.",
+    "link": "https://wb.gov.in/government-schemes-details-sikshashree.aspx"
+  },
+  {
+    "name": "Swami Vivekananda Merit-cum-Means Scholarship",
+    "category": "education",
+    "state": "West Bengal",
+    "description": "Offers scholarships to meritorious students from economically disadvantaged backgrounds.",
+    "link": "https://wb.gov.in/government-schemes-details-svmcm.aspx"
+  },
+  {
+    "name": "Swasthya Sathi Scheme",
+    "category": "health",
+    "state": "West Bengal",
+    "description": "Provides health insurance coverage to families for medical treatments.",
+    "link": "https://wb.gov.in/government-schemes-details-swasthyasathi.aspx"
+  },
+  {
+    "name": "Jai Johar Scheme",
+    "category": "health",
+    "state": "West Bengal",
+    "description": "Offers a monthly pension to senior citizens from the Scheduled Tribe community.",
+    "link": "https://wb.gov.in/government-schemes-details-jaijohar.aspx"
+  },
+  {
+    "name": "Yuvasree Scheme",
+    "category": "employment",
+    "state": "West Bengal",
+    "description": "Provides financial assistance to unemployed youth to enhance their employability.",
+    "link": "https://wb.gov.in/government-schemes-details-yuvasree.aspx"
+  },
+  {
+    "name": "Gatidhara Scheme",
+    "category": "employment",
+    "state": "West Bengal",
+    "description": "Offers financial assistance to unemployed youth for purchasing vehicles for livelihood.",
+    "link": "https://wb.gov.in/government-schemes-details-gatidhara.aspx"
+  },
+  {
+    "name": "Bangla Awas Yojana",
+    "category": "housing",
+    "state": "West Bengal",
+    "description": "Provides affordable housing to economically weaker sections.",
+    "link": "https://wb.gov.in/government-schemes-details-banglaawas.aspx"
+  },
+  {
+    "name": "Nijo Griha Nijo Bhumi",
+    "category": "housing",
+    "state": "West Bengal",
+    "description": "Offers land and housing support to eligible families.",
+    "link": "https://wb.gov.in/government-schemes-details-nijogrihanijobhumi.aspx"
+  },
+  {
+    "name": "Mukhyamantri Udyami Yojana",
+    "category": "finance",
+    "state": "Bihar",
+    "description": "Offers ₹10 lakh financial support (₹5 lakh subsidy + ₹5 lakh interest-free loan) to entrepreneurs from SC/ST/women/BC/EBC to start their businesses.",
+    "link": "https://udyami.bihar.gov.in"
+  },
+  {
+    "name": "Student Credit Card Scheme",
+    "category": "finance",
+    "state": "Bihar",
+    "description": "Provides education loans up to ₹4 lakh to 12th pass students for pursuing higher education.",
+    "link": "https://www.7nishchay-yuvaupmission.bihar.gov.in"
+  },
+  {
+    "name": "Bihar Credit Guarantee Scheme",
+    "category": "finance",
+    "state": "Bihar",
+    "description": "Offers credit guarantees to banks to provide loans to small businesses and startups with reduced risk.",
+    "link": "https://www.startup.bihar.gov.in"
+  },
+  {
+    "name": "Krishi Input Subsidy Scheme",
+    "category": "agriculture",
+    "state": "Bihar",
+    "description": "Provides input subsidies to farmers affected by natural calamities like floods or droughts.",
+    "link": "https://dbtagriculture.bihar.gov.in"
+  },
+  {
+    "name": "Diesel Anudan Yojana",
+    "category": "agriculture",
+    "state": "Bihar",
+    "description": "Subsidy on diesel purchase for irrigation during drought or delayed monsoon periods.",
+    "link": "https://dbtagriculture.bihar.gov.in"
+  },
+  {
+    "name": "Mukhya Mantri Horticulture Mission",
+    "category": "agriculture",
+    "state": "Bihar",
+    "description": "Promotes cultivation of fruits and vegetables by offering financial support and modern techniques.",
+    "link": "https://horticulture.bihar.gov.in"
+  },
+  {
+    "name": "Bihar Agricultural Mechanization Scheme",
+    "category": "agriculture",
+    "state": "Bihar",
+    "description": "Provides subsidies on agricultural machinery and equipment to reduce manual labor and increase efficiency.",
+    "link": "https://dbtagriculture.bihar.gov.in"
+  },
+  {
+    "name": "Bihar Student Credit Card Scheme",
+    "category": "education",
+    "state": "Bihar",
+    "description": "Allows students to borrow up to ₹4 lakh to pursue higher studies in India or abroad.",
+    "link": "https://www.7nishchay-yuvaupmission.bihar.gov.in"
+  },
+  {
+    "name": "Mukhyamantri Kanya Utthan Yojana",
+    "category": "education",
+    "state": "Bihar",
+    "description": "Provides financial assistance up to ₹50,000 to girls from birth till graduation to support education.",
+    "link": "http://edudbt.bih.nic.in"
+  },
+  {
+    "name": "Mukhyamantri Medha Vriti Yojana",
+    "category": "education",
+    "state": "Bihar",
+    "description": "Merit-based scholarship for top-performing students in Class 10 and 12 for further studies.",
+    "link": "http://edudbt.bih.nic.in"
+  },
+  {
+    "name": "Mukhyamantri Nishchay Swasthya Bima Yojana",
+    "category": "health",
+    "state": "Bihar",
+    "description": "Health insurance scheme offering ₹5 lakh per family per year for hospitalization to non-Ayushman Bharat beneficiaries.",
+    "link": "https://state.bihar.gov.in/health/CitizenHome.html"
+  },
+  {
+    "name": "Mukhyamantri Tejashwi Swasthya Yojana",
+    "category": "health",
+    "state": "Bihar",
+    "description": "Provides free diagnostic tests, consultation, and medicines in government hospitals.",
+    "link": "https://state.bihar.gov.in/health/CitizenHome.html"
+  },
+  {
+    "name": "Indira Gandhi Matritva Poshan Yojana",
+    "category": "health",
+    "state": "Bihar",
+    "description": "Offers financial support to pregnant and lactating women for nutrition needs during and after pregnancy.",
+    "link": "https://icds.bih.nic.in"
+  },
+  {
+    "name": "Mukhyamantri Janani Evam Bal Suraksha Yojana",
+    "category": "health",
+    "state": "Bihar",
+    "description": "Provides free delivery services and incentives to reduce maternal and infant mortality.",
+    "link": "https://state.bihar.gov.in/health/CitizenHome.html"
+  },
+  {
+    "name": "Kushal Yuva Program (KYP)",
+    "category": "employment",
+    "state": "Bihar",
+    "description": "Enhances employability of youth through training in soft skills, computer basics, and communication.",
+    "link": "https://www.skillmissionbihar.org"
+  },
+  {
+    "name": "Mukhyamantri Nischay Swayam Sahayata Bhatta Yojana",
+    "category": "employment",
+    "state": "Bihar",
+    "description": "Gives ₹1000 per month for up to 2 years to 12th pass unemployed youth aged 20–25 years.",
+    "link": "https://www.7nishchay-yuvaupmission.bihar.gov.in"
+  },
+  {
+    "name": "Start-Up Bihar Policy",
+    "category": "employment",
+    "state": "Bihar",
+    "description": "Encourages startups through funding, mentoring, and incubation facilities.",
+    "link": "https://www.startup.bihar.gov.in"
+  },
+  {
+    "name": "Bihar Industrial Investment Promotion Policy",
+    "category": "employment",
+    "state": "Bihar",
+    "description": "Offers subsidies and tax benefits to boost industrial growth and employment.",
+    "link": "https://www.industries.bih.nic.in"
+  },
+  {
+    "name": "Mukhyamantri Gramin Awas Yojana",
+    "category": "housing",
+    "state": "Bihar",
+    "description": "Provides housing assistance to poor rural families not covered under PMAY.",
+    "link": "https://rdd.bih.nic.in"
+  },
+  {
+    "name": "Pradhan Mantri Awas Yojana – Urban (Bihar Implementation)",
+    "category": "housing",
+    "state": "Bihar",
+    "description": "Affordable housing with interest subsidy for EWS/LIG/MIG families in urban Bihar.",
+    "link": "https://pmaymis.gov.in"
+  },
+  {
+    "name": "Bihar State Housing Board Scheme",
+    "category": "housing",
+    "state": "Bihar",
+    "description": "Provides affordable flats and plots through the Bihar State Housing Board.",
+    "link": "https://bshb.in"
+  },
+  {
+    "name": "Mukhyamantri Shahri Awas Yojana",
+    "category": "housing",
+    "state": "Bihar",
+    "description": "Provides housing aid for urban poor and slum dwellers not covered by PMAY.",
+    "link": "https://urban.bih.nic.in"
+  },
+  {
+      "name": "Tamil Nadu Startup and Innovation Policy",
+      "category": "finance",
+      "state": "Tamil Nadu",
+      "description": "Provides financial assistance, mentorship, and incubation support to startups to encourage entrepreneurship in Tamil Nadu.",
+      "link": "https://www.startuptn.in"
+    },
+    {
+      "name": "Maternity Assistance Scheme",
+      "category": "finance",
+      "state": "Tamil Nadu",
+      "description": "Offers financial support to poor pregnant women to improve maternal health and ensure the well-being of the mother and child.",
+      "link": "https://www.tn.gov.in"
+    },
+    {
+      "name": "Education Loan Subsidy Scheme",
+      "category": "finance",
+      "state": "Tamil Nadu",
+      "description": "Offers subsidized loans for students from Tamil Nadu pursuing higher education in India or abroad.",
+      "link": "https://www.tnedu.in"
+    },
+    {
+      "name": "Tamil Nadu Irrigated Agriculture Modernization and Water Bodies Restoration Program (TN IAMWARM)",
+      "category": "agriculture",
+      "state": "Tamil Nadu",
+      "description": "A program aimed at improving irrigation efficiency and enhancing water conservation techniques.",
+      "link": "https://www.agriculture.tn.gov.in"
+    },
+    {
+      "name": "Agri-Entrepreneurship Scheme",
+      "category": "agriculture",
+      "state": "Tamil Nadu",
+      "description": "Supports young entrepreneurs in the agriculture sector with financial assistance and training.",
+      "link": "https://www.agriculture.tn.gov.in"
+    },
+    {
+      "name": "Tamil Nadu Coconut Development Scheme",
+      "category": "agriculture",
+      "state": "Tamil Nadu",
+      "description": "Focuses on increasing coconut production by offering subsidies for coconut farmers.",
+      "link": "https://www.agriculture.tn.gov.in"
+    },
+    {
+      "name": "Tamil Nadu Farmers Welfare Scheme",
+      "category": "agriculture",
+      "state": "Tamil Nadu",
+      "description": "Provides financial assistance, crop insurance, and other benefits to the state's farmers to support their livelihoods.",
+      "link": "https://www.agriculture.tn.gov.in"
+    },
+    {
+      "name": "Naan Mudhalvan Scheme",
+      "category": "education",
+      "state": "Tamil Nadu",
+      "description": "Focuses on skill development for students and youth by offering career guidance, internships, and upskilling programs.",
+      "link": "https://www.naanmudhalvan.tn.gov.in"
+    },
+    {
+      "name": "Chief Minister's Merit Award",
+      "category": "education",
+      "state": "Tamil Nadu",
+      "description": "Provides scholarships and rewards to top-performing students at the state level to encourage academic excellence.",
+      "link": "https://www.tn.gov.in"
+    },
+    {
+      "name": "Free Laptop Scheme for Students",
+      "category": "education",
+      "state": "Tamil Nadu",
+      "description": "Offers free laptops to students from economically weaker sections to enhance learning and digital literacy.",
+      "link": "https://www.tn.gov.in"
+    },
+    {
+      "name": "Tamil Nadu Health Insurance Scheme",
+      "category": "health",
+      "state": "Tamil Nadu",
+      "description": "Provides free health insurance coverage for poor families in Tamil Nadu, covering hospitalization and medical expenses.",
+      "link": "https://www.tn.gov.in"
+    },
+    {
+      "name": "Maternity Benefit Scheme",
+      "category": "health",
+      "state": "Tamil Nadu",
+      "description": "Provides financial assistance and health support to pregnant women for maternal and child health.",
+      "link": "https://www.tn.gov.in"
+    },
+    {
+      "name": "Chief Minister’s Comprehensive Health Insurance Scheme",
+      "category": "health",
+      "state": "Tamil Nadu",
+      "description": "A free health insurance scheme for families with annual income less than ₹72,000, covering hospitalization, surgery, and treatment.",
+      "link": "https://www.tn.gov.in"
+    },
+    {
+      "name": "Tamil Nadu Arignar Anna Cancer Institute Scheme",
+      "category": "health",
+      "state": "Tamil Nadu",
+      "description": "Offers free cancer treatment and diagnostics for economically backward families in Tamil Nadu.",
+      "link": "https://www.tn.gov.in"
+    },
+    {
+      "name": "Tamil Nadu Employment and Skill Development Scheme",
+      "category": "employment",
+      "state": "Tamil Nadu",
+      "description": "Focuses on providing employment opportunities and skill training for the youth of Tamil Nadu.",
+      "link": "https://www.skilldevelopment.tn.gov.in"
+    },
+    {
+      "name": "Unemployment Assistance Scheme",
+      "category": "employment",
+      "state": "Tamil Nadu",
+      "description": "Provides financial assistance to unemployed youth in Tamil Nadu, aiming to support them while they seek employment.",
+      "link": "https://www.tn.gov.in"
+    },
+    {
+      "name": "Self-Employment Training Program",
+      "category": "employment",
+      "state": "Tamil Nadu",
+      "description": "Helps youth with training in self-employment skills and provides loans for setting up their own businesses.",
+      "link": "https://www.tn.gov.in"
+    },
+    {
+      "name": "Housing for All (PMAY) Tamil Nadu",
+      "category": "housing",
+      "state": "Tamil Nadu",
+      "description": "Under the Pradhan Mantri Awas Yojana, Tamil Nadu provides financial assistance for the construction and renovation of homes for the poor.",
+      "link": "https://www.tn.gov.in"
+    },
+    {
+      "name": "Tamil Nadu Slum Clearance Board (TNSCB)",
+      "category": "housing",
+      "state": "Tamil Nadu",
+      "description": "Provides housing for the poor in urban areas by constructing affordable flats and improving slum infrastructure.",
+      "link": "https://www.tnscb.org"
+    },
+    {
+      "name": "Affordable Housing Scheme",
+      "category": "housing",
+      "state": "Tamil Nadu",
+      "description": "Helps economically weaker sections with subsidized housing, including grants for home construction.",
+      "link": "https://www.tn.gov.in"
+    },
+    {
+      "name": "Indira Awas Yojana – Tamil Nadu",
+      "category": "housing",
+      "state": "Tamil Nadu",
+      "description": "Provides financial assistance for constructing houses for rural poor families in Tamil Nadu.",
+      "link": "https://www.tn.gov.in"
+    },
+    {
+      "name": "Maharashtra State Innovation Society (MSInS)",
+      "category": "finance",
+      "state": "Maharashtra",
+      "description": "Provides financial assistance, mentorship, and incubation facilities to startups and entrepreneurs in Maharashtra.",
+      "link": "https://www.msins.in"
+    },
+    {
+      "name": "Mahatma Jyotiba Phule Financial Assistance Scheme",
+      "category": "finance",
+      "state": "Maharashtra",
+      "description": "Offers financial support for the education of backward classes to reduce educational disparities.",
+      "link": "https://www.maharashtra.gov.in"
+    },
+    {
+      "name": "Dr. Punjabrao Deshmukh Loan Scheme",
+      "category": "finance",
+      "state": "Maharashtra",
+      "description": "Provides loans to students for higher education within Maharashtra and abroad at subsidized rates.",
+      "link": "https://www.maharashtra.gov.in"
+    },
+    {
+      "name": "Maharashtra Farm Mechanization Scheme",
+      "category": "agriculture",
+      "state": "Maharashtra",
+      "description": "Supports farmers by offering subsidies on machinery to improve productivity and reduce labor costs.",
+      "link": "https://www.agri.maharashtra.gov.in"
+    },
+    {
+      "name": "Maharashtra Crop Insurance Scheme",
+      "category": "agriculture",
+      "state": "Maharashtra",
+      "description": "Provides crop insurance coverage to safeguard farmers against natural calamities and crop loss.",
+      "link": "https://www.mahaagri.gov.in"
+    },
+    {
+      "name": "Maharashtra Agricultural Development Scheme",
+      "category": "agriculture",
+      "state": "Maharashtra",
+      "description": "Supports the development of agricultural infrastructure and enhances farmers’ productivity.",
+      "link": "https://www.agri.maharashtra.gov.in"
+    },
+    {
+      "name": "Maharashtra Horticulture Development Scheme",
+      "category": "agriculture",
+      "state": "Maharashtra",
+      "description": "Provides financial assistance to farmers for the development of horticultural crops.",
+      "link": "https://www.agri.maharashtra.gov.in"
+    },
+    {
+      "name": "Maharashtra State Open School (MSOS) Scholarship Scheme",
+      "category": "education",
+      "state": "Maharashtra",
+      "description": "Offers scholarships to students enrolled in Maharashtra State Open School for continuing their studies.",
+      "link": "https://www.msos.in"
+    },
+    {
+      "name": "Shivaji Maharaj Scholarship Scheme",
+      "category": "education",
+      "state": "Maharashtra",
+      "description": "Scholarships for students from backward classes to encourage education and reduce drop-out rates.",
+      "link": "https://www.maharashtra.gov.in"
+    },
+    {
+      "name": "Dr. Babasaheb Ambedkar Overseas Scholarship Scheme",
+      "category": "education",
+      "state": "Maharashtra",
+      "description": "Provides scholarships for students from Scheduled Castes to pursue higher education abroad.",
+      "link": "https://www.mahaeschol.maharashtra.gov.in"
+    },
+    {
+      "name": "Free Education for Girls (Bharati Vidyapeeth Scheme)",
+      "category": "education",
+      "state": "Maharashtra",
+      "description": "Provides free education and hostel facilities for girls from economically backward families.",
+      "link": "https://www.bharatividyapeeth.edu"
+    },
+    {
+      "name": "Maharashtra Health Insurance Scheme",
+      "category": "health",
+      "state": "Maharashtra",
+      "description": "Provides free health insurance for poor families to cover medical expenses for hospitalization.",
+      "link": "https://www.mahahealth.gov.in"
+    },
+    {
+      "name": "Maharashtra State AIDS Control Society (MSACS) Program",
+      "category": "health",
+      "state": "Maharashtra",
+      "description": "A comprehensive program for the prevention and control of HIV/AIDS through education, testing, and medical treatment.",
+      "link": "https://www.msacs.in"
+    },
+    {
+      "name": "Mahila Arogya Yojana",
+      "category": "health",
+      "state": "Maharashtra",
+      "description": "Provides free health services for women, including medical tests, maternal care, and treatment for chronic illnesses.",
+      "link": "https://www.mahahealth.gov.in"
+    },
+    {
+      "name": "Maharashtra Mukhyamantri Jan Arogya Yojana",
+      "category": "health",
+      "state": "Maharashtra",
+      "description": "Offers free medical treatment and surgeries for families below the poverty line in Maharashtra.",
+      "link": "https://www.mahahealth.gov.in"
+    },
+    {
+      "name": "Maharashtra Employment Guarantee Scheme",
+      "category": "employment",
+      "state": "Maharashtra",
+      "description": "Guarantees employment for at least 100 days a year to rural families in Maharashtra through public works programs.",
+      "link": "https://www.mahaemployment.gov.in"
+    },
+    {
+      "name": "Maharashtra Skill Development Scheme",
+      "category": "employment",
+      "state": "Maharashtra",
+      "description": "Offers skill development training in various fields for youth to enhance their employability.",
+      "link": "https://www.skilldevelopment.maharashtra.gov.in"
+    },
+    {
+      "name": "Shetkari Sanman Yojana",
+      "category": "employment",
+      "state": "Maharashtra",
+      "description": "A scheme that provides financial aid and insurance to farmers, especially for workers employed in agriculture.",
+      "link": "https://www.agrimachinery.maharashtra.gov.in"
+    },
+    {
+      "name": "Maharashtra Pradhan Mantri Awas Yojana (PMAY)",
+      "category": "housing",
+      "state": "Maharashtra",
+      "description": "Aims to provide affordable housing for all in urban areas, with subsidies for economically weaker sections.",
+      "link": "https://www.maharashtra.gov.in"
+    },
+    {
+      "name": "Maharashtra Slum Rehabilitation Scheme",
+      "category": "housing",
+      "state": "Maharashtra",
+      "description": "Provides housing for slum dwellers in Maharashtra by constructing multi-story buildings and providing necessary amenities.",
+      "link": "https://www.msrdc.org"
+    },
+    {
+      "name": "Maharashtra Housing and Area Development Authority (MHADA)",
+      "category": "housing",
+      "state": "Maharashtra",
+      "description": "Provides affordable housing options through auctions and subsidies for low-income families in Maharashtra.",
+      "link": "https://www.mhada.gov.in"
+    },
+    {
+      "name": "Ghar Toh Ghar Yojana",
+      "category": "housing",
+      "state": "Maharashtra",
+      "description": "A government scheme offering financial assistance to low-income families for building homes in rural Maharashtra.",
+      "link": "https://www.mrda.maharashtra.gov.in"
+    },
+    {
+      "name": "Andhra Pradesh State Innovation Society",
+      "category": "finance",
+      "state": "Andhra Pradesh",
+      "description": "Supports startups and innovation with financial assistance, incubation, and mentoring.",
+      "link": "https://www.apsinovationsociety.com"
+    },
+    {
+      "name": "Jagananna Amma Vodi",
+      "category": "finance",
+      "state": "Andhra Pradesh",
+      "description": "Provides financial assistance for the education of children from poor families.",
+      "link": "https://www.ap.gov.in"
+    },
+    {
+      "name": "Andhra Pradesh Farmers Welfare Scheme",
+      "category": "agriculture",
+      "state": "Andhra Pradesh",
+      "description": "Provides financial assistance and subsidies to farmers for various agricultural activities.",
+      "link": "https://www.apagri.in"
+    },
+    {
+      "name": "Rythu Bandhu",
+      "category": "agriculture",
+      "state": "Andhra Pradesh",
+      "description": "Provides investment support to farmers for purchasing agricultural inputs.",
+      "link": "https://www.apagri.in"
+    },
+    {
+      "name": "YSR Rythu Bharosa",
+      "category": "agriculture",
+      "state": "Andhra Pradesh",
+      "description": "Offers income support to farmers to ensure their financial stability.",
+      "link": "https://www.apagri.in"
+    },
+    {
+      "name": "Andhra Pradesh Education Assistance Scheme",
+      "category": "education",
+      "state": "Andhra Pradesh",
+      "description": "Provides scholarships and financial assistance to students from economically backward families.",
+      "link": "https://www.apedn.gov.in"
+    },
+    {
+      "name": "Jagananna Vidya Kanuka",
+      "category": "education",
+      "state": "Andhra Pradesh",
+      "description": "Provides free school kits to students for enhancing the education system.",
+      "link": "https://www.ap.gov.in"
+    },
+    {
+      "name": "Andhra Pradesh Health Insurance Scheme",
+      "category": "health",
+      "state": "Andhra Pradesh",
+      "description": "Provides health coverage for poor families for medical treatments.",
+      "link": "https://www.aphealth.ap.gov.in"
+    },
+    {
+      "name": "NTR Vaidya Seva",
+      "category": "health",
+      "state": "Andhra Pradesh",
+      "description": "Offers free medical treatment in government hospitals for poor families.",
+      "link": "https://www.aphealth.ap.gov.in"
+    },
+    {
+      "name": "Andhra Pradesh Employment Guarantee Scheme",
+      "category": "employment",
+      "state": "Andhra Pradesh",
+      "description": "Guarantees 100 days of employment per year to rural families under the MGNREGA scheme.",
+      "link": "https://www.apgovt.gov.in"
+    },
+    {
+      "name": "Andhra Pradesh Housing Scheme",
+      "category": "housing",
+      "state": "Andhra Pradesh",
+      "description": "Provides subsidized housing to low-income families.",
+      "link": "https://www.aphousing.ap.gov.in"
+    },
+    {
+      "name": "Rythu Bandhu Scheme",
+      "category": "finance",
+      "state": "Telangana",
+      "description": "Provides financial assistance to farmers for agricultural inputs.",
+      "link": "https://www.telangana.gov.in"
+    },
+    {
+      "name": "Telangana Farmers Welfare Scheme",
+      "category": "finance",
+      "state": "Telangana",
+      "description": "Supports farmers with financial aid, crop insurance, and subsidies.",
+      "link": "https://www.telangana.gov.in"
+    },
+    {
+      "name": "Kaleswaram Lift Irrigation Scheme",
+      "category": "agriculture",
+      "state": "Telangana",
+      "description": "Focuses on improving irrigation and water management to enhance agricultural productivity.",
+      "link": "https://www.telangana.gov.in"
+    },
+    {
+      "name": "Telangana State Crop Loan Waiver Scheme",
+      "category": "agriculture",
+      "state": "Telangana",
+      "description": "Waives off loans for farmers in distress due to crop failure.",
+      "link": "https://www.telangana.gov.in"
+    },
+    {
+      "name": "Telangana Education Scheme",
+      "category": "education",
+      "state": "Telangana",
+      "description": "Provides financial support for the education of students from economically backward communities.",
+      "link": "https://www.tseducation.telangana.gov.in"
+    },
+    {
+      "name": "KCR Kit Scheme",
+      "category": "health",
+      "state": "Telangana",
+      "description": "Provides free kits to pregnant women with essential items for childbirth and newborn care.",
+      "link": "https://www.telangana.gov.in"
+    },
+    {
+      "name": "Telangana Health Insurance Scheme",
+      "category": "health",
+      "state": "Telangana",
+      "description": "Provides health insurance to below poverty line families.",
+      "link": "https://www.telangana.gov.in"
+    },
+    {
+      "name": "Telangana State Employment Scheme",
+      "category": "employment",
+      "state": "Telangana",
+      "description": "Offers training and employment opportunities for youth to improve their skills.",
+      "link": "https://www.telangana.gov.in"
+    },
+    {
+      "name": "Telangana Housing Scheme",
+      "category": "housing",
+      "state": "Telangana",
+      "description": "Provides affordable housing to the economically backward sections of society.",
+      "link": "https://www.telangana.gov.in"
+    },
+    {
+      "name": "Tamil Nadu Startup and Innovation Policy",
+      "category": "finance",
+      "state": "Tamil Nadu",
+      "description": "Supports startups with financial aid, incubation, and mentorship.",
+      "link": "https://www.startuptn.in"
+    },
+    {
+      "name": "Maternity Assistance Scheme",
+      "category": "finance",
+      "state": "Tamil Nadu",
+      "description": "Provides financial assistance to pregnant women.",
+      "link": "https://www.tn.gov.in"
+    },
+    {
+      "name": "Tamil Nadu Crop Insurance Scheme",
+      "category": "agriculture",
+      "state": "Tamil Nadu",
+      "description": "Provides crop insurance to farmers in Tamil Nadu.",
+      "link": "https://www.agriculture.tn.gov.in"
+    },
+    {
+      "name": "Tamil Nadu Coconut Development Scheme",
+      "category": "agriculture",
+      "state": "Tamil Nadu",
+      "description": "Supports coconut farmers with financial assistance and infrastructure.",
+      "link": "https://www.agriculture.tn.gov.in"
+    },
+    {
+      "name": "Naan Mudhalvan Scheme",
+      "category": "education",
+      "state": "Tamil Nadu",
+      "description": "Provides skill development and career guidance to students and youth.",
+      "link": "https://www.naanmudhalvan.tn.gov.in"
+    },
+    {
+      "name": "Free Laptop Scheme for Students",
+      "category": "education",
+      "state": "Tamil Nadu",
+      "description": "Provides free laptops to students from economically backward sections.",
+      "link": "https://www.tn.gov.in"
+    },
+    {
+      "name": "Tamil Nadu Health Insurance Scheme",
+      "category": "health",
+      "state": "Tamil Nadu",
+      "description": "Provides free health insurance for families in need.",
+      "link": "https://www.tn.gov.in"
+    },
+    {
+      "name": "Maternity Benefit Scheme",
+      "category": "health",
+      "state": "Tamil Nadu",
+      "description": "Supports women during maternity with financial and medical assistance.",
+      "link": "https://www.tn.gov.in"
+    },
+    {
+      "name": "Tamil Nadu Employment and Skill Development Scheme",
+      "category": "employment",
+      "state": "Tamil Nadu",
+      "description": "Provides employment and skill development programs for youth.",
+      "link": "https://www.skilldevelopment.tn.gov.in"
+    },
+    {
+      "name": "Housing for All (PMAY) Tamil Nadu",
+      "category": "housing",
+      "state": "Tamil Nadu",
+      "description": "Provides affordable housing under the Pradhan Mantri Awas Yojana.",
+      "link": "https://www.tn.gov.in"
+    },
+    {
+      "name": "Karnataka Startup Policy",
+      "category": "finance",
+      "state": "Karnataka",
+      "description": "Provides financial support, incubation, and mentoring for startups in Karnataka.",
+      "link": "https://www.startup.karnataka.gov.in"
+    },
+    {
+      "name": "Karnataka Farmers Welfare Scheme",
+      "category": "finance",
+      "state": "Karnataka",
+      "description": "Financial aid to farmers through loans, subsidies, and crop insurance.",
+      "link": "https://www.agrikarnataka.gov.in"
+    },
+    {
+      "name": "Karnataka State Crop Loan Waiver Scheme",
+      "category": "agriculture",
+      "state": "Karnataka",
+      "description": "Waives off loans for farmers affected by drought or other crises.",
+      "link": "https://www.agrikarnataka.gov.in"
+    },
+    {
+      "name": "Karnataka Education Loan Scheme",
+      "category": "education",
+      "state": "Karnataka",
+      "description": "Provides interest-free loans to students pursuing higher education.",
+      "link": "https://www.kar.nic.in"
+    },
+    {
+      "name": "Shakti Yojana",
+      "category": "education",
+      "state": "Karnataka",
+      "description": "Provides free education to girls in Karnataka.",
+      "link": "https://www.schooleducation.kar.nic.in"
+    },
+    {
+      "name": "Karnataka Health Insurance Scheme",
+      "category": "health",
+      "state": "Karnataka",
+      "description": "Provides free health insurance coverage for the economically backward sections of society.",
+      "link": "https://www.karnataka.gov.in"
+    },
+    {
+      "name": "Mukhyamantri Kisan Awas Yojana",
+      "category": "health",
+      "state": "Karnataka",
+      "description": "Provides medical support to farmers with critical illnesses.",
+      "link": "https://www.karnataka.gov.in"
+    },
+    {
+      "name": "Karnataka Employment Guarantee Scheme",
+      "category": "employment",
+      "state": "Karnataka",
+      "description": "Offers job opportunities in rural areas.",
+      "link": "https://www.karnataka.gov.in"
+    },
+    {
+      "name": "Karnataka Housing Scheme",
+      "category": "housing",
+      "state": "Karnataka",
+      "description": "Provides affordable housing to economically weaker sections.",
+      "link": "https://www.karnataka.gov.in"
+    },
+    {
+      "name": "Kerala Startup Mission",
+      "category": "finance",
+      "state": "Kerala",
+      "description": "Supports startups with funding, mentoring, and networking.",
+      "link": "https://www.startupmission.kerala.gov.in"
+    },
+    {
+      "name": "Kerala State Farmers Welfare Fund",
+      "category": "finance",
+      "state": "Kerala",
+      "description": "Provides financial assistance for farmers facing distress or crop failures.",
+      "link": "https://www.kerala.gov.in"
+    },
+    {
+      "name": "Kerala Agricultural Insurance Scheme",
+      "category": "agriculture",
+      "state": "Kerala",
+      "description": "Provides crop insurance to protect farmers from weather-related losses.",
+      "link": "https://www.agriculture.kerala.gov.in"
+    },
+    {
+      "name": "Kerala Education Loan Scheme",
+      "category": "education",
+      "state": "Kerala",
+      "description": "Offers financial aid for students pursuing higher education.",
+      "link": "https://www.education.kerala.gov.in"
+    },
+    {
+      "name": "Suvarna Jubilee Education Fund",
+      "category": "education",
+      "state": "Kerala",
+      "description": "Provides scholarships for economically backward students.",
+      "link": "https://www.education.kerala.gov.in"
+    },
+    {
+      "name": "Kerala Health Insurance Scheme",
+      "category": "health",
+      "state": "Kerala",
+      "description": "Provides health insurance to economically backward families.",
+      "link": "https://www.keralahealth.gov.in"
+    },
+    {
+      "name": "Akshaya Health Scheme",
+      "category": "health",
+      "state": "Kerala",
+      "description": "Provides free medical care to the elderly and low-income families.",
+      "link": "https://www.keralahealth.gov.in"
+    },
+    {
+      "name": "Kerala Employment Scheme",
+      "category": "employment",
+      "state": "Kerala",
+      "description": "Helps the unemployed youth by providing skill development and employment opportunities.",
+      "link": "https://www.kerala.gov.in"
+    },
+    {
+      "name": "Kerala Housing Scheme",
+      "category": "housing",
+      "state": "Kerala",
+      "description": "Provides affordable housing for economically backward sections.",
+      "link": "https://www.kerala.gov.in"
+    },
+    {
+      "name": "Chhattisgarh Startup Policy",
+      "category": "finance",
+      "state": "Chhattisgarh",
+      "description": "Supports startups with financial aid, incubation, and mentorship.",
+      "link": "https://www.cgstartup.in"
+    },
+    {
+      "name": "Chief Minister’s Farmers Welfare Scheme",
+      "category": "finance",
+      "state": "Chhattisgarh",
+      "description": "Provides financial assistance and subsidies to farmers in the state.",
+      "link": "https://www.cgagrigov.in"
+    },
+    {
+      "name": "Chhattisgarh Crop Loan Waiver Scheme",
+      "category": "agriculture",
+      "state": "Chhattisgarh",
+      "description": "Waives loans for farmers facing agricultural losses.",
+      "link": "https://www.cgagrigov.in"
+    },
+    {
+      "name": "Chhattisgarh Tribal Welfare Scheme",
+      "category": "agriculture",
+      "state": "Chhattisgarh",
+      "description": "Provides financial support to tribal farmers to improve their agricultural productivity.",
+      "link": "https://www.cgtribalgov.in"
+    },
+    {
+      "name": "Chhattisgarh Education Loan Scheme",
+      "category": "education",
+      "state": "Chhattisgarh",
+      "description": "Offers educational loans to students pursuing higher education.",
+      "link": "https://www.cgeducation.cg.gov.in"
+    },
+    {
+      "name": "Chhattisgarh Free Education Scheme",
+      "category": "education",
+      "state": "Chhattisgarh",
+      "description": "Provides free education to students from economically backward sections.",
+      "link": "https://www.cgeducation.cg.gov.in"
+    },
+    {
+      "name": "Chhattisgarh Health Insurance Scheme",
+      "category": "health",
+      "state": "Chhattisgarh",
+      "description": "Provides health insurance to the economically backward population.",
+      "link": "https://www.cghs.gov.in"
+    },
+    {
+      "name": "Mukhyamantri Swasthya Bima Yojana",
+      "category": "health",
+      "state": "Chhattisgarh",
+      "description": "Offers health insurance for families below the poverty line.",
+      "link": "https://www.cghs.gov.in"
+    },
+    {
+      "name": "Chhattisgarh Employment Guarantee Scheme",
+      "category": "employment",
+      "state": "Chhattisgarh",
+      "description": "Guarantees 100 days of employment in rural areas under MGNREGA.",
+      "link": "https://www.cg.gov.in"
+    },
+    {
+      "name": "Chhattisgarh Housing Scheme",
+      "category": "housing",
+      "state": "Chhattisgarh",
+      "description": "Provides affordable housing for low-income groups.",
+      "link": "https://www.cghousing.gov.in"
+    },
+    {
+      "name": "Odisha Startup Policy",
+      "category": "finance",
+      "state": "Odisha",
+      "description": "Provides financial support, incubation, and mentoring to startups in Odisha.",
+      "link": "https://www.startupodisha.gov.in"
+    },
+    {
+      "name": "Odisha Farmer's Welfare Scheme",
+      "category": "finance",
+      "state": "Odisha",
+      "description": "Offers financial assistance and subsidies to farmers to enhance agricultural productivity.",
+      "link": "https://www.agriculture.odisha.gov.in"
+    },
+    {
+      "name": "Odisha Crop Insurance Scheme",
+      "category": "agriculture",
+      "state": "Odisha",
+      "description": "Provides insurance coverage to farmers against crop failures.",
+      "link": "https://www.agriculture.odisha.gov.in"
+    },
+    {
+      "name": "Odisha Tribal Development Scheme",
+      "category": "agriculture",
+      "state": "Odisha",
+      "description": "Supports tribal farmers with financial aid and agricultural training.",
+      "link": "https://www.tribal.odisha.gov.in"
+    },
+    {
+      "name": "KALIA Scheme",
+      "category": "agriculture",
+      "state": "Odisha",
+      "description": "Provides financial support to small and marginal farmers.",
+      "link": "https://www.kalia.co.in"
+    },
+    {
+      "name": "Odisha Education Assistance Scheme",
+      "category": "education",
+      "state": "Odisha",
+      "description": "Provides financial assistance and scholarships for students pursuing higher education.",
+      "link": "https://www.odisha.gov.in"
+    },
+    {
+      "name": "Biju Yuva Sashaktikaran Yojana",
+      "category": "education",
+      "state": "Odisha",
+      "description": "Supports the skill development of youth through training programs.",
+      "link": "https://www.odisha.gov.in"
+    },
+    {
+      "name": "Odisha Health Insurance Scheme",
+      "category": "health",
+      "state": "Odisha",
+      "description": "Provides free health insurance to families in rural areas.",
+      "link": "https://www.odishahealth.gov.in"
+    },
+    {
+      "name": "Biju Swasthya Kalyan Yojana",
+      "category": "health",
+      "state": "Odisha",
+      "description": "Provides free healthcare services to people from economically backward backgrounds.",
+      "link": "https://www.odishahealth.gov.in"
+    },
+    {
+      "name": "Odisha Employment Generation Scheme",
+      "category": "employment",
+      "state": "Odisha",
+      "description": "Provides employment opportunities and skill training to unemployed youth.",
+      "link": "https://www.odisha.gov.in"
+    },
+    {
+      "name": "Odisha Housing Scheme",
+      "category": "housing",
+      "state": "Odisha",
+      "description": "Provides affordable housing to economically weaker sections.",
+      "link": "https://www.odishahousing.in"
+    },
+    {
+      "name": "Arunachal Pradesh Startup Scheme",
+      "category": "finance",
+      "state": "Arunachal Pradesh",
+      "description": "Supports startups with financial assistance and mentorship.",
+      "link": "https://www.startuparunachal.in"
+    },
+    {
+      "name": "Arunachal Pradesh Farmer's Welfare Scheme",
+      "category": "finance",
+      "state": "Arunachal Pradesh",
+      "description": "Provides financial aid and subsidies to farmers in distress.",
+      "link": "https://www.arunagriculture.in"
+    },
+    {
+      "name": "Arunachal Pradesh Crop Insurance Scheme",
+      "category": "agriculture",
+      "state": "Arunachal Pradesh",
+      "description": "Provides crop insurance to farmers to protect against weather-related losses.",
+      "link": "https://www.arunagriculture.in"
+    },
+    {
+      "name": "Arunachal Pradesh Education Loan Scheme",
+      "category": "education",
+      "state": "Arunachal Pradesh",
+      "description": "Offers educational loans to students pursuing higher education.",
+      "link": "https://www.apeducation.gov.in"
+    },
+    {
+      "name": "Arunachal Pradesh Free Education Scheme",
+      "category": "education",
+      "state": "Arunachal Pradesh",
+      "description": "Provides free education to children from economically weaker sections.",
+      "link": "https://www.apeducation.gov.in"
+    },
+    {
+      "name": "Arunachal Pradesh Health Insurance Scheme",
+      "category": "health",
+      "state": "Arunachal Pradesh",
+      "description": "Provides health insurance coverage to economically disadvantaged families.",
+      "link": "https://www.arunachalhealth.in"
+    },
+    {
+      "name": "Arunachal Pradesh Employment Guarantee Scheme",
+      "category": "employment",
+      "state": "Arunachal Pradesh",
+      "description": "Offers employment opportunities in rural areas under MGNREGA.",
+      "link": "https://www.arunachal.gov.in"
+    },
+    {
+      "name": "Arunachal Pradesh Housing Scheme",
+      "category": "housing",
+      "state": "Arunachal Pradesh",
+      "description": "Provides affordable housing to low-income families in rural and urban areas.",
+      "link": "https://www.arunachalhousing.gov.in"
+    },
+    {
+      "name": "Assam Startup Scheme",
+      "category": "finance",
+      "state": "Assam",
+      "description": "Provides financial support and mentoring to startups.",
+      "link": "https://www.assamstartup.in"
+    },
+    {
+      "name": "Assam Farmer's Welfare Scheme",
+      "category": "finance",
+      "state": "Assam",
+      "description": "Offers financial assistance to farmers in distress.",
+      "link": "https://www.assamagribusiness.in"
+    },
+    {
+      "name": "Assam Crop Insurance Scheme",
+      "category": "agriculture",
+      "state": "Assam",
+      "description": "Provides crop insurance for farmers facing losses due to natural calamities.",
+      "link": "https://www.assamagribusiness.in"
+    },
+    {
+      "name": "Assam Free Education Scheme",
+      "category": "education",
+      "state": "Assam",
+      "description": "Offers free education to students from economically disadvantaged backgrounds.",
+      "link": "https://www.education.assam.gov.in"
+    },
+    {
+      "name": "Assam Health Insurance Scheme",
+      "category": "health",
+      "state": "Assam",
+      "description": "Provides health insurance to poor and underprivileged families.",
+      "link": "https://www.assamhealth.gov.in"
+    },
+    {
+      "name": "Assam Employment Scheme",
+      "category": "employment",
+      "state": "Assam",
+      "description": "Offers employment opportunities and skill development programs.",
+      "link": "https://www.assam.gov.in"
+    },
+    {
+      "name": "Assam Housing Scheme",
+      "category": "housing",
+      "state": "Assam",
+      "description": "Provides affordable housing for low-income families.",
+      "link": "https://www.assamhousing.in"
+    },
+    {
+      "name": "Nagaland Startup Scheme",
+      "category": "finance",
+      "state": "Nagaland",
+      "description": "Encourages and supports startups in Nagaland with financial and technical assistance.",
+      "link": "https://www.nagalandstartup.in"
+    },
+    {
+      "name": "Nagaland Farmer’s Welfare Scheme",
+      "category": "finance",
+      "state": "Nagaland",
+      "description": "Provides financial aid and subsidies for farmers in distress.",
+      "link": "https://www.nagalandagri.in"
+    },
+    {
+      "name": "Nagaland Crop Insurance Scheme",
+      "category": "agriculture",
+      "state": "Nagaland",
+      "description": "Provides crop insurance for farmers facing crop losses.",
+      "link": "https://www.nagalandagri.in"
+    },
+    {
+      "name": "Nagaland Education Loan Scheme",
+      "category": "education",
+      "state": "Nagaland",
+      "description": "Provides educational loans to students pursuing higher education.",
+      "link": "https://www.nagalandeducation.gov.in"
+    },
+    {
+      "name": "Nagaland Health Insurance Scheme",
+      "category": "health",
+      "state": "Nagaland",
+      "description": "Provides health insurance coverage to economically backward families.",
+      "link": "https://www.nagalandhealth.gov.in"
+    },
+    {
+      "name": "Nagaland Employment Guarantee Scheme",
+      "category": "employment",
+      "state": "Nagaland",
+      "description": "Ensures 100 days of employment under MGNREGA.",
+      "link": "https://www.nagaland.gov.in"
+    },
+    {
+      "name": "Nagaland Housing Scheme",
+      "category": "housing",
+      "state": "Nagaland",
+      "description": "Provides affordable housing to low-income families in rural areas.",
+      "link": "https://www.nagalandhousing.gov.in"
+    },
+    {
+      "name": "Manipur Startup Scheme",
+      "category": "finance",
+      "state": "Manipur",
+      "description": "Provides financial aid and resources for startups in Manipur.",
+      "link": "https://www.manipurstartup.in"
+    },
+    {
+      "name": "Manipur Farmer’s Welfare Scheme",
+      "category": "finance",
+      "state": "Manipur",
+      "description": "Supports farmers through financial aid and schemes.",
+      "link": "https://www.manipuragri.in"
+    },
+    {
+      "name": "Manipur Crop Insurance Scheme",
+      "category": "agriculture",
+      "state": "Manipur",
+      "description": "Provides crop insurance to safeguard farmers from crop loss.",
+      "link": "https://www.manipuragri.in"
+    },
+    {
+      "name": "Manipur Education Loan Scheme",
+      "category": "education",
+      "state": "Manipur",
+      "description": "Provides loans to students pursuing higher education.",
+      "link": "https://www.manipureducation.gov.in"
+    },
+    {
+      "name": "Manipur Health Insurance Scheme",
+      "category": "health",
+      "state": "Manipur",
+      "description": "Offers health insurance to low-income families.",
+      "link": "https://www.manipurhealth.gov.in"
+    },
+    {
+      "name": "Manipur Employment Guarantee Scheme",
+      "category": "employment",
+      "state": "Manipur",
+      "description": "Provides employment opportunities under MGNREGA.",
+      "link": "https://www.manipur.gov.in"
+    },
+    {
+      "name": "Manipur Housing Scheme",
+      "category": "housing",
+      "state": "Manipur",
+      "description": "Provides affordable housing to low-income and rural families.",
+      "link": "https://www.manipurhousing.in"
+    },
+    {
+      "name": "Mizoram Startup Scheme",
+      "category": "finance",
+      "state": "Mizoram",
+      "description": "Encourages and supports startups with financial assistance.",
+      "link": "https://www.mizoramstartup.in"
+    },
+    {
+      "name": "Mizoram Farmer’s Welfare Scheme",
+      "category": "finance",
+      "state": "Mizoram",
+      "description": "Provides financial assistance to distressed farmers.",
+      "link": "https://www.mizoramagri.in"
+    },
+    {
+      "name": "Mizoram Crop Insurance Scheme",
+      "category": "agriculture",
+      "state": "Mizoram",
+      "description": "Provides crop insurance for agricultural losses.",
+      "link": "https://www.mizoramagri.in"
+    },
+    {
+      "name": "Mizoram Education Loan Scheme",
+      "category": "education",
+      "state": "Mizoram",
+      "description": "Provides loans for students pursuing higher education.",
+      "link": "https://www.mizorameducation.gov.in"
+    },
+    {
+      "name": "Mizoram Health Insurance Scheme",
+      "category": "health",
+      "state": "Mizoram",
+      "description": "Provides health insurance for economically disadvantaged families.",
+      "link": "https://www.mizoramhealth.in"
+    },
+    {
+      "name": "Mizoram Employment Guarantee Scheme",
+      "category": "employment",
+      "state": "Mizoram",
+      "description": "Guarantees 100 days of employment under MGNREGA.",
+      "link": "https://www.mizoram.gov.in"
+    },
+    {
+      "name": "Mizoram Housing Scheme",
+      "category": "housing",
+      "state": "Mizoram",
+      "description": "Provides affordable housing for low-income and homeless families.",
+      "link": "https://www.mizoramhousing.in"
+    },
+    {
+      "name": "Meghalaya Startup Scheme",
+      "category": "finance",
+      "state": "Meghalaya",
+      "description": "Provides financial aid, mentorship, and incubation for startups.",
+      "link": "https://www.meghalayastartup.in"
+    },
+    {
+      "name": "Meghalaya Farmer’s Welfare Scheme",
+      "category": "finance",
+      "state": "Meghalaya",
+      "description": "Supports farmers through financial aid, subsidies, and schemes.",
+      "link": "https://www.meghalayaagri.in"
+    },
+    {
+      "name": "Meghalaya Crop Insurance Scheme",
+      "category": "agriculture",
+      "state": "Meghalaya",
+      "description": "Offers crop insurance for farmers facing agricultural losses.",
+      "link": "https://www.meghalayaagri.in"
+    },
+    {
+      "name": "Meghalaya Education Loan Scheme",
+      "category": "education",
+      "state": "Meghalaya",
+      "description": "Provides education loans to students for higher studies.",
+      "link": "https://www.meghalayabursary.in"
+    },
+    {
+      "name": "Meghalaya Health Insurance Scheme",
+      "category": "health",
+      "state": "Meghalaya",
+      "description": "Provides health insurance to economically backward families.",
+      "link": "https://www.meghalayahealth.in"
+    },
+    {
+      "name": "Meghalaya Employment Scheme",
+      "category": "employment",
+      "state": "Meghalaya",
+      "description": "Offers employment opportunities and skill development programs.",
+      "link": "https://www.meghalaya.gov.in"
+    },
+    {
+      "name": "Meghalaya Housing Scheme",
+      "category": "housing",
+      "state": "Meghalaya",
+      "description": "Provides affordable housing for low-income families in urban and rural areas.",
+      "link": "https://www.meghalayahousing.in"
+    },
+    {
+      "name": "Tripura Startup Scheme",
+      "category": "finance",
+      "state": "Tripura",
+      "description": "Encourages startups with financial support and resources.",
+      "link": "https://www.tripurastartup.in"
+    }
+]
