@@ -69,6 +69,12 @@ def normalize_query(query):
 # --------------------------
 
 def search_scheme(query):
+    query = query.lower()
+    
+    # Handle Greetings
+    if any(greet in query for greet in greetings):
+        return "Hello! 😊 How can I assist you today with government schemes? Please type a scheme you're looking for."
+
     query = normalize_query(query)
     results = []
 
@@ -98,21 +104,27 @@ def search_scheme(query):
     # Sort results by score
     results.sort(key=lambda x: x[0], reverse=True)
 
+    # If no relevant schemes, suggest example queries
+    if not results:
+        return (
+            "I couldn't find any relevant schemes for your query. 😔\n\n"
+            "You can try searching for schemes related to:\n"
+            "- Finance\n"
+            "- Education\n"
+            "- Health\n"
+            "- Employment\n"
+            "- Housing\n\n"
+            "Example: 'finance scheme for farmers in Maharashtra'."
+        )
+
     # Format results
-    if results:
-        return "\n\n".join([
-            f"**{item['name']}** ({item['state']})\n"
-            f"**Category**: {item['category'].title()}\n"
-            f"{item['description']}\n"
-            f"[🔗 Link]({item['link']})"
-            for _, item in results[:5]
-        ])
-    else:
-        # Try spelling correction fallback
-        correction = difflib.get_close_matches(query, [s["name"].lower() for s in schemes], n=1)
-        if correction:
-            return f"No exact match found. Did you mean **{correction[0]}**?"
-        return "No relevant schemes found. Try using different or simpler keywords."
+    return "\n\n".join([
+        f"**{item['name']}** ({item['state']})\n"
+        f"**Category**: {item['category'].title()}\n"
+        f"{item['description']}\n"
+        f"[🔗 Link]({item['link']})"
+        for _, item in results[:5]
+    ])
 
 
 # --------------------------
@@ -128,3 +140,5 @@ iface = gr.Interface(
 )
 
 iface.launch()
+
+
