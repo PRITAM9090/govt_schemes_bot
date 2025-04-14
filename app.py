@@ -36,6 +36,7 @@ keyword_synonyms = {
     "finance": ["money", "loan", "subsidy", "pension", "support", "fund", "bank"],
     "employment": ["job", "work", "skill", "training", "internship"],
     "housing": ["home", "house", "shelter", "pradhan mantri awas", "pmay"],
+    "agriculture"
 }
 
 # Flatten synonyms for reverse lookup
